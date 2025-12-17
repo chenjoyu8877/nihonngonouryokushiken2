@@ -1,21 +1,5 @@
 {
-  "siteTitle": "日文練習",
-  "catalog": [
-    {
-      "name": "綜合測驗區",
-      "type": "external_category",
-      "path": "configs/combined_config.json"
-    },
-    {
-      "name": "JLPT",
-      "type": "external_category",
-      "path": "configs/jlpt_config.json"
-    },
-    {
-      "name": "讀本",
-      "type": "external_category",
-      "path": "configs/reader_config.json"
-    },
+ 
     {
       "name": "語法期中",
       "type": "external_category",
@@ -23,3 +7,4 @@
     }
   ]
 }
+
