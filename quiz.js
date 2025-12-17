@@ -71,6 +71,10 @@ let globalOptionPool = [];    // ⭐️ 新增：總選項庫 (永遠完整，�
 let currentCardIndex = 0;
 let currentCorrectAnswer = "";
 let currentMode = 'review';
+
+// ⭐️ 新增：紀錄最原始的模式類型 (用於 Mixed 判斷)
+let originalModeType = ''; 
+
 let touchStartX = 0;
 let touchStartY = 0;
 
@@ -275,6 +279,9 @@ async function initializeQuiz() {
     if (!modeConfig) { throw new Error(`找不到模式 ID: ${modeId}`); }
 
     currentMode = modeConfig.type;
+    // ⭐️ 關鍵修改：保存原始模式類型 (如 'mixed')
+    originalModeType = modeConfig.type;
+
     QUESTION_FIELD = modeConfig.q_field;
     ANSWER_FIELD = modeConfig.a_field || '';
     BACK_CARD_FIELDS = modeConfig.back_fields || [];
@@ -316,6 +323,7 @@ async function initializeQuiz() {
 
         modeChoiceArea.style.display = 'none';
         
+        // ⭐️ 關鍵修改：只有 Review 模式直接進入，Mixed 模式現在進入 else (顯示考試選單)
         if (currentMode === 'review') {
             isExamMode = false;
             examSetupArea.style.display = 'none';
@@ -334,6 +342,7 @@ async function initializeQuiz() {
             
             setupApp();
         } else {
+            // Quiz, MCQ, Mixed 都會來到這裡
             isExamMode = false;
             practiceExamChoiceArea.style.display = 'block';
             
@@ -555,13 +564,13 @@ function updateOperationNotes() {
             <li>**Enter**：檢查答案 / 下一張。</li>
             <li>**Tab** / **Esc**：我不會 (顯示答案)。</li>
             <li>**Shift**：切換中英/大寫 (無特殊功能)。</li>
-            <li>點擊卡片：無功能。</li>
+            <li>點擊卡片：<span style="color:red;">作答期間禁止</span>。</li>
         `;
     } else if (currentMode === 'mcq') {
         html = `
             <li>**1~4**：選擇答案 (對應選項)。</li>
             <li>**Shift**：<span style="color:red;">已停用</span>。</li>
-            <li>答對自動下一題，答錯顯示答案。</li>
+            <li>點擊卡片：<span style="color:red;">作答期間禁止</span>。</li>
         `;
     } else {
         html = `
@@ -594,6 +603,7 @@ function setupApp() {
         operationToggle.addEventListener('click', toggleOperationNotes);
     }
     
+    // ⭐️ 確保在 Setup 時根據模式顯示正確的 UI
     if (currentMode === 'quiz') {
         if(quizInputArea) quizInputArea.style.display = 'block';
         if(mcqOptionsArea) mcqOptionsArea.style.display = 'none';
@@ -633,13 +643,50 @@ function toggleOperationNotes() {
 }
 
 async function loadNextCard() {
+    // ⭐️ 關鍵修改：混合模式邏輯 (Mixed Mode Logic) ⭐️
+    if (originalModeType === 'mixed') {
+        // 1. 隨機決定這一題是 "quiz" (填空) 還是 "mcq" (選擇)
+        const randomMode = Math.random() < 0.5 ? 'quiz' : 'mcq';
+        currentMode = randomMode;
+        
+        // 2. 自動切換欄位 (針對您的 bunbou1 結構：填空用 qus-1，選擇用 qus-2)
+        if (currentMode === 'quiz') {
+            QUESTION_FIELD = 'qus-1';
+            ANSWER_FIELD = 'ans-1';
+        } else {
+            QUESTION_FIELD = 'qus-2';
+            ANSWER_FIELD = 'ans-2';
+        }
+        
+        // 3. 動態切換介面顯示
+        if (currentMode === 'quiz') {
+            quizInputArea.style.display = 'block';
+            mcqOptionsArea.style.display = 'none';
+            if(giveUpButton) giveUpButton.style.display = 'inline-block';
+            nextButton.textContent = "檢查答案";
+            
+            // 更新 placeholder
+            const answerLabelData = BACK_CARD_FIELDS.find(f => f.key === ANSWER_FIELD);
+            const answerLabel = answerLabelData ? answerLabelData.label : "答案";
+            answerInput.placeholder = `請輸入 ${answerLabel}`;
+
+        } else {
+            quizInputArea.style.display = 'none';
+            mcqOptionsArea.style.display = 'flex';
+            if(giveUpButton) giveUpButton.style.display = 'none';
+        }
+        
+        // 更新操作說明文字
+        updateOperationNotes();
+    }
+
     // 重置卡片樣式
     if (flashcard) {
         flashcard.style.boxShadow = '';
         flashcard.style.border = '';
     }
 
-    // ⭐️ 新增：重置 Diff 比對顯示區域
+    // 重置 Diff 比對顯示區域
     const diffContainer = document.getElementById('diff-result');
     if (diffContainer) diffContainer.innerHTML = '';
 
@@ -688,6 +735,17 @@ async function loadNextCard() {
     if (!card) return; 
 
     currentCardData = card;
+
+    // ⭐️ 雙重保險：如果切換到該模式但該欄位沒資料，嘗試切回另一種
+    if (originalModeType === 'mixed' && !card[QUESTION_FIELD]) {
+         if (currentMode === 'mcq' && card['qus-1']) {
+             currentMode = 'quiz';
+             QUESTION_FIELD = 'qus-1';
+             ANSWER_FIELD = 'ans-1';
+             quizInputArea.style.display = 'block';
+             mcqOptionsArea.style.display = 'none';
+         }
+    }
 
     cardFront.textContent = card[QUESTION_FIELD] || "";
     currentCorrectAnswer = card[ANSWER_FIELD] || "";
@@ -921,9 +979,28 @@ function handleGlobalKey(event) {
     }
 }
 
+// ⭐️ 修正後的 flipCard (加入防偷看邏輯)
 function flipCard() {
-    const wasFlipped = flashcard.classList.contains('is-flipped');
+    // 🛡️ 防偷看邏輯：
+    // 如果是 Quiz 或 MCQ 模式 (無論是練習還是考試)，在還沒作答完成前，禁止翻開卡片背面。
+    // 判斷標準：
+    // 1. Quiz: 輸入框沒被鎖定 (!answerInput.disabled) 代表還沒答對或放棄。
+    // 2. MCQ: 下一題按鈕被鎖定 (nextButton.disabled) 代表還沒選出結果。
     
+    if (currentMode === 'quiz' || currentMode === 'mcq') {
+        // 只有當卡片「目前是正面」且「還沒答完」時，才攔截。
+        // (如果卡片已經是背面，允許點擊翻回正面看題目)
+        if (!flashcard.classList.contains('is-flipped')) {
+             if (currentMode === 'quiz' && !answerInput.disabled) {
+                 return; // 禁止翻頁
+             }
+             if (currentMode === 'mcq' && nextButton.disabled) {
+                 return; // 禁止翻頁
+             }
+        }
+    }
+
+    const wasFlipped = flashcard.classList.contains('is-flipped');
     flashcard.classList.toggle('is-flipped');
     
     if (wasFlipped && !flashcard.classList.contains('is-flipped')) {
@@ -1072,6 +1149,7 @@ function handleMcqAnswer(selectedButton) {
             }
         });
 
+        // 答錯後，啟用「下一張」按鈕，並翻開卡片給使用者看正確答案
         nextButton.disabled = false;
         flipCard(); 
     }
