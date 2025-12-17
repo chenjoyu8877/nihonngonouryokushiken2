@@ -1112,6 +1112,7 @@ function generateMcqOptions() {
     });
 }
 function handleMcqAnswer(selectedButton) {
+    selectedButton.blur();
     const selectedAnswer = selectedButton.dataset.answer;
     
     const allButtons = mcqOptionsArea.querySelectorAll('button');
