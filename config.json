@@ -1,180 +1,25 @@
 {
-  "siteTitle": "我的日文單字庫",
+  "siteTitle": "日文練習",
   "catalog": [
     {
+      "name": "綜合測驗區",
+      "type": "external_category",
+      "path": "configs/combined_config.json"
+    },
+    {
       "name": "JLPT",
-      "type": "category",
-      "id": "jlpt",
-      "enabled": true,
-      "items": [
-        {
-          "name": "N3",
-          "type": "category",
-          "id": "n3",
-          "enabled": true,
-          "items": [
-            {
-              "name": "N3 單字",
-              "type": "category",
-              "id": "n3_vocab",
-              "enabled": true,
-              "items": [
-                {
-                  "name": "翻卡複習",
-                  "type": "category",
-                  "id": "n3_vocab_review",
-                  "enabled": true,
-                  "items": [
-                    {
-                      "name": "翻卡複習 (日=>中)",
-                      "type": "list",
-                      "id": "N3",
-                      "enabled": true,
-                      "modes": [
-                        { "id": "n3_review_kanji", "type": "review", "name": "開始複習", "enabled": true, "q_field": "kanji", "back_fields": [
-                          { "label": "意思", "key": "definition" },
-                          { "label": "平假名", "key": "hiragana" },
-                          { "label": "音調", "key": "pitch" },
-                          { "label": "詞性", "key": "type" }
-                        ] }
-                      ]
-                    },
-                    {
-                      "name": "翻卡複習 (中=>日)",
-                      "type": "list",
-                      "id": "N3",
-                      "enabled": true,
-                      "modes": [
-                        { "id": "n3_review_def", "type": "review", "name": "開始複習", "enabled": true, "q_field": "definition", "back_fields": [
-                          { "label": "漢字", "key": "kanji" },
-                          { "label": "平假名", "key": "hiragana" },
-                          { "label": "音調", "key": "pitch" },
-                          { "label": "詞性", "key": "type" }
-                        ] }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "輸入測驗",
-                  "type": "category",
-                  "id": "n3_vocab_quiz",
-                  "enabled": true,
-                  "items": [
-                    {
-                      "name": "輸入測驗 (中=>日)",
-                      "type": "list",
-                      "id": "N3",
-                      "enabled": true,
-                      "modes": [
-                        { "id": "n3_quiz_def", "type": "quiz", "name": "開始測驗", "enabled": true, "q_field": "definition", "a_field": "kanji", "back_fields": [
-                          { "label": "日文", "key": "kanji" },
-                          { "label": "平假名", "key": "hiragana" },
-                          { "label": "音調", "key": "pitch" },
-                          { "label": "意思", "key": "definition" },
-                          { "label": "詞性", "key": "type" }
-                        ] }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "選擇測驗",
-                  "type": "category",
-                  "id": "n3_vocab_mcq",
-                  "enabled": true,
-                  "items": [
-                    {
-                      "name": "選擇測驗 (日=>平假名)",
-                      "type": "list",
-                      "id": "N3",
-                      "enabled": true,
-                      "modes": [
-                        { "id": "n3_mcq_kanji", "type": "mcq", "name": "開始測驗", "enabled": true, "q_field": "kanji", "a_field": "hiragana", "back_fields": [
-                          { "label": "平假名", "key": "hiragana" },
-                          { "label": "音調", "key": "pitch" },
-                          { "label": "意思", "key": "definition" },
-                          { "label": "詞性", "key": "type" },
-                          { "label": "漢字", "key": "kanji" }
-                        ] }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "N3 文法 (準備中)",
-              "type": "list",
-              "id": "N3_grammar",
-              "enabled": false,
-              "modes": []
-            }
-          ]
-        }
-      ]
+      "type": "external_category",
+      "path": "configs/jlpt_config.json"
     },
     {
       "name": "讀本",
-      "type": "category",
-      "id": "reader",
-      "enabled": true,
-      "items": [
-        {
-          "name": "第17課",
-          "type": "category",
-          "id": "lesson17",
-          "enabled": true,
-          "items": [
-            {
-              "name": "課文",
-              "type": "list",
-              "id": "doben17",
-              "enabled": true,
-              "modes": [
-                {
-                  "id": "doben17_text_review",
-                  "type": "review",
-                  "name": "翻卡複習 (日=>中)",
-                  "enabled": true,
-                  "q_field": "japanese",
-                  "a_field": "chinese",
-                  "back_fields": [
-                    { "label": "日文", "key": "japanese" },
-                    { "label": "中文", "key": "chinese" }
-                  ]
-                },
-                {
-                  "id": "doben17_quiz_japanese",
-                  "type": "quiz",
-                  "name": "輸入測驗 (日=>中)",
-                  "enabled": true,
-                  "q_field": "japanese",
-                  "a_field": "chinese",
-                  "back_fields": [
-                    { "label": "日文", "key": "japanese" },
-                    { "label": "中文", "key": "chinese" }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "單字 (準備中)",
-              "type": "list",
-              "id": "doben17_vocab",
-              "enabled": false,
-              "modes": []
-            }
-          ]
-        },
-        {
-          "name": "第18課 (準備中)",
-          "type": "list",
-          "id": "doben18_text",
-          "enabled": false,
-          "modes": []
-        }
-      ]
+      "type": "external_category",
+      "path": "configs/reader_config.json"
+    },
+    {
+      "name": "語法期中",
+      "type": "external_category",
+      "path": "configs/bunbou1_config.json"
     }
   ]
 }

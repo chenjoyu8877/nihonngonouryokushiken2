@@ -12,7 +12,7 @@ body {
 }
 h1 { color: #444; }
 
-/* --- 2. ⭐️ 首頁 (index.html) 樣式 (已升級) ⭐️ --- */
+/* --- 2. ⭐️ 首頁 (index.html) 樣式 (共用) ⭐️ --- */
 .homepage-container {
     width: 90%;
     max-width: 600px;
@@ -34,7 +34,6 @@ h1 { color: #444; }
     gap: 15px;
     margin-top: 15px; 
 }
-/* ⭐️ 2b. 新增：麵包屑 (Breadcrumbs) ⭐️ */
 .breadcrumbs {
     list-style: none;
     padding: 0;
@@ -59,10 +58,10 @@ h1 { color: #444; }
     color: #aaa;
 }
 .breadcrumbs li:last-child::after {
-    content: ''; /* 最後一項後面不要 / */
+    content: '';
 }
 
-/* ⭐️ 2c. 首頁按鈕 (list-button) 樣式 ⭐️ */
+/* ⭐️ 2c. 首頁「資料夾」按鈕 (list-button) 樣式 ⭐️ */
 .list-button {
     background-color: #34495e; /* 深藍色 */
     padding: 20px;
@@ -79,7 +78,26 @@ h1 { color: #444; }
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
-/* (模式按鈕 .list-item / .option-button 會被 JS 動態產生) */
+/* ⭐️ 2d. 新增：「返回」按鈕樣式 ⭐️ */
+.back-button {
+    background-color: #f0f0f0; /* 淺灰色 */
+    color: #555;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    padding: 15px 20px;
+    border: 1px solid #ddd;
+    text-align: left; /* 讓箭頭和文字靠左 */
+}
+.back-button:hover {
+    background-color: #e0e0e0;
+    border-color: #ccc;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+/* (模式按鈕/單字庫容器) */
 .list-item {
     background-color: #fafafa;
     border: 1px solid #eee;
@@ -117,10 +135,11 @@ h1 { color: #444; }
 .option-button.quiz-mode:hover { background-color: #409182; }
 .option-button.mcq-mode { background-color: #8e44ad; }
 .option-button.mcq-mode:hover { background-color: #732d91; }
+.option-button.mixed-mode { background-color: #f39c12; }
+.option-button.mixed-mode:hover { background-color: #d35400; }
 
 
 /* --- 3. ⭐️ 測驗頁 (quiz.html) 樣式 ⭐️ --- */
-/* (所有 setup-container 預設隱藏，JS 會顯示正確的那一個) */
 .setup-container {
     display: none; 
     width: 90%;
@@ -170,7 +189,33 @@ h1 { color: #444; }
     padding: 5px;
 }
 
-/* --- 4. 測驗主體區 (quiz.html) --- */
+/* ⭐️ 多選列表樣式 ⭐️ */
+.checkbox-list {
+    display: flex;
+    flex-direction: column; 
+    align-items: flex-start; 
+    gap: 10px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 20px auto;
+    max-width: 300px;
+}
+.checkbox-list label {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    padding: 5px 0;
+    width: 100%;
+    cursor: pointer;
+}
+.checkbox-list input[type="checkbox"] {
+    margin-right: 10px;
+    min-width: 18px;
+    min-height: 18px;
+}
+
+/* --- 4. ⭐️ 測驗主體區 (quiz.html) ⭐️ --- */
 #quiz-main-area {
     display: none; 
     width: 100%;
@@ -180,7 +225,6 @@ h1 { color: #444; }
     position: relative;
 }
 
-/* 考試進度條 */
 #exam-progress-bar {
     display: none; 
     width: 100%;
@@ -197,7 +241,6 @@ h1 { color: #444; }
     box-sizing: border-box;
 }
 
-/* 返回主頁面按鈕 */
 #quiz-main-area .home-button {
     position: absolute;
     top: -5px; 
@@ -205,7 +248,7 @@ h1 { color: #444; }
     margin-bottom: 0;
 }
 
-/* 翻轉卡片 (自動高度) */
+/* (翻轉卡片樣式 - 不變) */
 .flashcard-container { perspective: 1000px; margin: 20px; margin-top: 40px; }
 .flashcard {
     width: 320px;
@@ -248,7 +291,7 @@ h1 { color: #444; }
     transform: rotateY(180deg);
 }
 
-/* 下一張按鈕 */
+/* (下一張按鈕 - 不變) */
 button#next-button {
     padding: 10px 20px;
     font-size: 16px;
@@ -267,7 +310,7 @@ button#next-button:disabled {
     cursor: not-allowed;
 }
 
-/* --- 5. 卡片背面 (新版) 樣式 --- */
+/* --- 5. ⭐️ 卡片背面 (新版) 樣式 (不變) ⭐️ --- */
 .card-back {
     display: flex;
     flex-direction: column;
@@ -300,7 +343,7 @@ button#next-button:disabled {
     font-size: 20px;
 }
 
-/* --- 6. 測驗 UI (MCQ, 輸入框) --- */
+/* --- 6. ⭐️ 測驗 UI (已修改) ⭐️ */
 .quiz-input-section {
     display: none; 
     width: 100%;
@@ -340,19 +383,23 @@ button#next-button:disabled {
   20%, 40%, 60%, 80% { transform: translateX(5px); }
 }
 .shake { animation: shake 0.5s ease-in-out; }
+
+/* ⭐️ 修正：MCQ 選項按鈕 (垂直排列，長條狀) ⭐️ */
 .mcq-options-section {
     display: none; 
     width: 100%;
     max-width: 320px; 
     margin: 15px 0;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    
+    /* 使用 Flex 實現垂直排列 */
+    display: flex;
+    flex-direction: column;
     gap: 10px;
 }
 button.mcq-option {
     width: 100%;
-    min-height: 60px;
-    padding: 10px;
+    min-height: 50px; /* 調整高度 */
+    padding: 12px 15px;
     font-size: 16px;
     color: #333;
     background-color: #ffffff;
@@ -360,6 +407,11 @@ button.mcq-option {
     border-radius: 8px;
     cursor: pointer;
     transition: all 0.2s ease;
+    
+    /* 文字靠左對齊 */
+    text-align: left; 
+    display: flex;
+    align-items: center; /* 內容垂直置中 */
 }
 button.mcq-option:hover:not(:disabled) {
     border-color: #4a90e2;
@@ -382,7 +434,7 @@ button.mcq-option.incorrect {
     opacity: 1; 
 }
 
-/* --- 7. 考試結果區 --- */
+/* --- 7. ⭐️ 考試結果區 ⭐️ */
 #exam-results-area {
     display: none; 
     width: 90%;
@@ -410,4 +462,145 @@ button.mcq-option.incorrect {
 }
 #exam-results-area .option-button {
     margin-top: 20px;
+}
+
+/* --- 8. ⭐️ 操作註解區塊 (operation-notes) ⭐️ */
+
+/* 按鈕樣式 */
+#operation-toggle {
+    width: 100%;
+    max-width: 320px;
+    margin-top: 25px;
+    padding: 10px 15px;
+    background-color: #e6f0ff; 
+    border: 1px solid #cce0ff;
+    border-radius: 8px;
+    text-align: left;
+    color: #4a90e2; 
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+#operation-toggle:hover {
+    background-color: #d8e6ff;
+}
+#operation-toggle h4 {
+    margin: 0;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#toggle-icon {
+    transition: transform 0.3s ease;
+}
+
+/* 內容區域樣式 (預設隱藏) */
+#operation-notes {
+    width: 100%;
+    max-width: 320px;
+    padding: 0 15px; 
+    border: 1px solid #ddd;
+    border-top: none; 
+    border-radius: 0 0 8px 8px;
+    text-align: left;
+    color: #555;
+    font-size: 14px;
+    background-color: #f7f7f7;
+    
+    /* 動畫相關設定 */
+    max-height: 0; 
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.4s ease-out, opacity 0.4s ease-out, padding 0.4s ease-out;
+}
+
+/* ⭐️ 展開狀態的樣式 ⭐️ */
+/* 當內容區域有 .expanded 時，顯示內容 */
+#operation-notes.expanded {
+    max-height: 200px; 
+    padding: 15px; 
+    opacity: 1;
+    border-color: #ddd;
+}
+
+/* ⭐️ 當按鈕有 .expanded 時，旋轉圖標 ⭐️ */
+#operation-toggle.expanded #toggle-icon {
+    transform: rotate(180deg);
+}
+
+#operation-notes ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+#operation-notes ul li {
+    margin-bottom: 5px;
+    line-height: 1.5;
+}
+
+/* --- 9. 隱藏焦點框 (Focus Ring) --- */
+#quiz-main-area:focus {
+    outline: none; 
+    box-shadow: none; 
+}
+/* --- 10. ⭐️ 全域返回主選單按鈕 ⭐️ --- */
+#global-home-btn {
+    position: fixed;
+    top: 15px;
+    left: 15px; /* 固定在左上角 */
+    width: 45px;
+    height: 45px;
+    background-color: #34495e;
+    color: white;
+    border-radius: 50%; /* 圓形 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 24px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    z-index: 9999; /* 確保浮在最上層 */
+    transition: all 0.3s ease;
+    border: 2px solid white;
+}
+
+#global-home-btn:hover {
+    background-color: #2c3e50;
+    transform: scale(1.1);
+}
+
+/* 調整原本 setup-container 的位置，避免標題被左上角按鈕遮擋 (選擇性) */
+.setup-container h1 {
+    margin-top: 10px; 
+}
+/* --- 差異比對樣式 --- */
+#diff-result {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    min-height: 24px;
+    font-weight: bold;
+}
+
+/* 刪除 (你打錯/多打的字) - 紅色背景 + 刪除線 */
+.diff-del {
+    background-color: #ffcccc;
+    color: #cc0000;
+    text-decoration: line-through;
+    padding: 0 2px;
+    border-radius: 2px;
+}
+
+/* 新增 (你漏掉/正確的字) - 綠色背景 */
+.diff-ins {
+    background-color: #ccffcc;
+    color: #008800;
+    padding: 0 2px;
+    border-radius: 2px;
+}
+
+/* 沒變的字 - 灰色 */
+.diff-common {
+    color: #333;
 }
