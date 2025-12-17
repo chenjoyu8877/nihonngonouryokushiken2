@@ -1,0 +1,55 @@
+[
+  {
+    "name": "語法期中",
+    "type": "category",
+    "id": "bunbou_midterm_folder",
+    "enabled": true,
+    "items": [
+      {
+        "name": "第1回 語法練習",
+        "type": "list",
+        "id": "bunbou1",
+        "enabled": true,
+        "modes": [
+          {
+            "id": "bunbou_fill_mode",
+            "type": "quiz",
+            "name": "填空題 (qus-1)",
+            "enabled": true,
+            "q_field": "qus-1",
+            "a_field": "ans-1",
+            "back_fields": [
+              { "label": "正確答案", "key": "ans-1" },
+              { "label": "參考選項", "key": "qus-2" }
+            ]
+          },
+          {
+            "id": "bunbou_mcq_mode",
+            "type": "mcq",
+            "name": "選擇題 (qus-2)",
+            "enabled": true,
+            "q_field": "qus-2",
+            "a_field": "ans-2",
+            "back_fields": [
+              { "label": "正確選項", "key": "ans-2" },
+              { "label": "完整填空", "key": "qus-1" }
+            ]
+          },
+          {
+            "id": "bunbou_mix_mode",
+            "type": "mixed",
+            "name": "綜合練習 (混合)",
+            "enabled": true,
+            "q_field": "qus-1",
+            "a_field": "ans-1",
+            "back_fields": [
+              { "label": "答案", "key": "ans-1" },
+              { "label": "選項", "key": "ans-2" },
+              { "label": "題目", "key": "qus-1" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

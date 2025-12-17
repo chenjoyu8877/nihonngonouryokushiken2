@@ -1,0 +1,5148 @@
+[
+  {
+  "kanji": "ああ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "啊、哎呀",
+  "type": "感嘆"
+ },
+ {
+  "kanji": "会う",
+  "hiragana": "あ.う",
+  "pitch": 1,
+  "definition": "見面、遇到、碰上",
+  "type": "自動一"
+ },
+ {
+  "kanji": "青",
+  "hiragana": "あ.お",
+  "pitch": 1,
+  "definition": "藍色、青色",
+  "type": "名詞"
+ },
+ {
+  "kanji": "青い",
+  "hiragana": "あお.い",
+  "pitch": 2,
+  "definition": "藍色的、青色的",
+  "type": "い形"
+ },
+ {
+  "kanji": "赤",
+  "hiragana": "あか",
+  "pitch": 1,
+  "definition": "紅、紅色",
+  "type": "名詞"
+ },
+ {
+  "kanji": "赤い",
+  "hiragana": "あか.い",
+  "pitch": 0,
+  "definition": "紅色的",
+  "type": "い形"
+ },
+ {
+  "kanji": "明るい",
+  "hiragana": "あか.るい",
+  "pitch": 3,
+  "definition": "明亮的、光明的",
+  "type": "い形"
+ },
+ {
+  "kanji": "秋",
+  "hiragana": "あき",
+  "pitch": 1,
+  "definition": "秋天、秋季",
+  "type": "名詞"
+ },
+ {
+  "kanji": "開く",
+  "hiragana": "あ.く",
+  "pitch": 0,
+  "definition": "打開、開",
+  "type": "自動一"
+ },
+ {
+  "kanji": "開ける",
+  "hiragana": "あ.ける",
+  "pitch": 0,
+  "definition": "打開、開",
+  "type": "他動二"
+ },
+ {
+  "kanji": "上げる",
+  "hiragana": "あ.げる",
+  "pitch": 0,
+  "definition": "舉起、抬起",
+  "type": "他動二"
+ },
+ {
+  "kanji": "朝",
+  "hiragana": "あさ",
+  "pitch": 1,
+  "definition": "早上、早晨",
+  "type": "名詞"
+ },
+ {
+  "kanji": "朝ご飯",
+  "hiragana": "あさ.ご.はん",
+  "pitch": 3,
+  "definition": "早餐",
+  "type": "名詞"
+ },
+ {
+  "kanji": "明後日",
+  "hiragana": "あさって",
+  "pitch": 2,
+  "definition": "後天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "足",
+  "hiragana": "あし",
+  "pitch": 2,
+  "definition": "腳",
+  "type": "名詞"
+ },
+ {
+  "kanji": "明日",
+  "hiragana": "あした",
+  "pitch": 3,
+  "definition": "明天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "あそこ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "那邊、那裡(遠方、普通)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "遊ぶ",
+  "hiragana": "あそ.ぶ",
+  "pitch": 0,
+  "definition": "玩、遊玩",
+  "type": "自動一"
+ },
+ {
+  "kanji": "暖かい",
+  "hiragana": "あたた.かい",
+  "pitch": 4,
+  "definition": "暖的、暖和的",
+  "type": "い形"
+ },
+ {
+  "kanji": "温かい",
+  "hiragana": "あたた.かい",
+  "pitch": 4,
+  "definition": "溫的、溫熱的",
+  "type": "い形"
+ },
+ {
+  "kanji": "頭",
+  "hiragana": "あたま",
+  "pitch": 3,
+  "definition": "頭、腦袋",
+  "type": "名詞"
+ },
+ {
+  "kanji": "新しい",
+  "hiragana": "あたら.しい",
+  "pitch": 4,
+  "definition": "新的、新鮮的",
+  "type": "い形"
+ },
+ {
+  "kanji": "あちら",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "那邊、那裡(遠方、禮貌)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "厚い",
+  "hiragana": "あつ.い",
+  "pitch": 0,
+  "definition": "厚的",
+  "type": "い形"
+ },
+ {
+  "kanji": "暑い",
+  "hiragana": "あつ.い",
+  "pitch": 2,
+  "definition": "熱的",
+  "type": "い形"
+ },
+ {
+  "kanji": "熱い",
+  "hiragana": "あつ.い",
+  "pitch": 2,
+  "definition": "熱的、燙的",
+  "type": "い形"
+ },
+ {
+  "kanji": "あっち",
+  "hiragana": "無",
+  "pitch": 3,
+  "definition": "那邊、那裡(遠方、口語)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "後",
+  "hiragana": "あと",
+  "pitch": 1,
+  "definition": "以後、後面",
+  "type": "名詞"
+ },
+ {
+  "kanji": "あなた",
+  "hiragana": "無",
+  "pitch": 2,
+  "definition": "你",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "兄",
+  "hiragana": "あに",
+  "pitch": 1,
+  "definition": "哥哥、家兄(稱呼自己的)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "姉",
+  "hiragana": "あね",
+  "pitch": 0,
+  "definition": "姐姐、家姊(稱呼自己的)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "あの",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "那、那個(接名詞)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "あのう",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "請問、啊",
+  "type": "感嘆"
+ },
+ {
+  "kanji": "アパート",
+  "hiragana": "無",
+  "pitch": 2,
+  "definition": "公寓",
+  "type": "名詞"
+ },
+ {
+  "kanji": "浴びる",
+  "hiragana": "あ.びる",
+  "pitch": 0,
+  "definition": "淋、浴",
+  "type": "他動二"
+ },
+ {
+  "kanji": "危ない",
+  "hiragana": "あぶ.ない",
+  "pitch": 0,
+  "definition": "危險的",
+  "type": "い形"
+ },
+ {
+  "kanji": "油",
+  "hiragana": "あぶら",
+  "pitch": 0,
+  "definition": "油",
+  "type": "名詞"
+ },
+ {
+  "kanji": "甘い",
+  "hiragana": "あま.い",
+  "pitch": 0,
+  "definition": "甜的",
+  "type": "い形"
+ },
+ {
+  "kanji": "あまり",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "不太~",
+  "type": "副詞"
+ },
+ {
+  "kanji": "雨",
+  "hiragana": "あめ",
+  "pitch": 1,
+  "definition": "雨、雨天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "アメリカ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "美國",
+  "type": "名詞"
+ },
+ {
+  "kanji": "洗う",
+  "hiragana": "あら.う",
+  "pitch": 0,
+  "definition": "洗、清洗",
+  "type": "他動一"
+ },
+ {
+  "kanji": "ありがとう",
+  "hiragana": "無",
+  "pitch": 2,
+  "definition": "謝謝",
+  "type": "感嘆"
+ },
+ {
+  "kanji": "ある",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "有、存在",
+  "type": "自動一"
+ },
+ {
+  "kanji": "歩く",
+  "hiragana": "ある.く",
+  "pitch": 2,
+  "definition": "走路、步行",
+  "type": "自動一"
+ },
+ {
+  "kanji": "あれ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "那、那個(不接名詞)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "良い",
+  "hiragana": "い.い\/よ.い",
+  "pitch": 1,
+  "definition": "好的、合適",
+  "type": "い形"
+ },
+ {
+  "kanji": "いいえ",
+  "hiragana": "無",
+  "pitch": 3,
+  "definition": "不、不是",
+  "type": "感嘆"
+ },
+ {
+  "kanji": "言う",
+  "hiragana": "い.う",
+  "pitch": 0,
+  "definition": "說",
+  "type": "他動一"
+ },
+ {
+  "kanji": "家",
+  "hiragana": "いえ",
+  "pitch": 2,
+  "definition": "房子、住宅",
+  "type": "名詞"
+ },
+ {
+  "kanji": "いかが",
+  "hiragana": "無",
+  "pitch": 2,
+  "definition": "如何",
+  "type": "副詞"
+ },
+ {
+  "kanji": "行く",
+  "hiragana": "い.く",
+  "pitch": 0,
+  "definition": "去",
+  "type": "自動一"
+ },
+ {
+  "kanji": "いくつ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "多少、幾個、幾歲",
+  "type": "名詞"
+ },
+ {
+  "kanji": "いくら",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "多少、多少錢",
+  "type": "名詞"
+ },
+ {
+  "kanji": "池",
+  "hiragana": "いけ",
+  "pitch": 2,
+  "definition": "池子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "医者",
+  "hiragana": "い.しゃ",
+  "pitch": 0,
+  "definition": "醫生",
+  "type": "名詞"
+ },
+ {
+  "kanji": "椅子",
+  "hiragana": "い.す",
+  "pitch": 0,
+  "definition": "椅子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "忙しい",
+  "hiragana": "いそが.しい",
+  "pitch": 4,
+  "definition": "忙的、忙碌的",
+  "type": "い形"
+ },
+ {
+  "kanji": "痛い",
+  "hiragana": "いた.い",
+  "pitch": 2,
+  "definition": "痛的、痛苦的",
+  "type": "い形"
+ },
+ {
+  "kanji": "一",
+  "hiragana": "いち",
+  "pitch": 2,
+  "definition": "一",
+  "type": "名詞"
+ },
+ {
+  "kanji": "一日",
+  "hiragana": "いち.にち",
+  "pitch": 4,
+  "definition": "一日、終日",
+  "type": "名詞"
+ },
+ {
+  "kanji": "一番",
+  "hiragana": "いち.ばん",
+  "pitch": 2,
+  "definition": "最~",
+  "type": "副詞"
+ },
+ {
+  "kanji": "いつ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "何時、什麼時候",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "五日",
+  "hiragana": "いつ.か",
+  "pitch": 0,
+  "definition": "五天、五號",
+  "type": "名詞"
+ },
+ {
+  "kanji": "一緒",
+  "hiragana": "いっ.しょ",
+  "pitch": 0,
+  "definition": "一起",
+  "type": "副詞"
+ },
+ {
+  "kanji": "五つ",
+  "hiragana": "いつ.つ",
+  "pitch": 2,
+  "definition": "五個、五歲",
+  "type": "名詞"
+ },
+ {
+  "kanji": "いつも",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "總是、經常、平時",
+  "type": "副詞"
+ },
+ {
+  "kanji": "犬",
+  "hiragana": "いぬ",
+  "pitch": 2,
+  "definition": "狗",
+  "type": "名詞"
+ },
+ {
+  "kanji": "今",
+  "hiragana": "いま",
+  "pitch": 1,
+  "definition": "現在、馬上",
+  "type": "名詞"
+ },
+ {
+  "kanji": "意味",
+  "hiragana": "い.み",
+  "pitch": 1,
+  "definition": "意思、涵義",
+  "type": "名詞"
+ },
+ {
+  "kanji": "妹",
+  "hiragana": "いもうと",
+  "pitch": 0,
+  "definition": "妹妹",
+  "type": "名詞"
+ },
+ {
+  "kanji": "嫌",
+  "hiragana": "いや",
+  "pitch": 2,
+  "definition": "討厭、不願意",
+  "type": "な形"
+ },
+ {
+  "kanji": "入り口",
+  "hiragana": "い.り.ぐち",
+  "pitch": 0,
+  "definition": "入口",
+  "type": "名詞"
+ },
+ {
+  "kanji": "居る",
+  "hiragana": "い.る",
+  "pitch": 0,
+  "definition": "有、居住",
+  "type": "自動二"
+ },
+ {
+  "kanji": "要る",
+  "hiragana": "い.る",
+  "pitch": 0,
+  "definition": "要、需要",
+  "type": "自動一"
+ },
+ {
+  "kanji": "入れる",
+  "hiragana": "いれ.る",
+  "pitch": 0,
+  "definition": "裝入、放入",
+  "type": "他動二"
+ },
+ {
+  "kanji": "色",
+  "hiragana": "いろ",
+  "pitch": 2,
+  "definition": "顏色、色彩",
+  "type": "名詞"
+ },
+ {
+  "kanji": "色々",
+  "hiragana": "いろ.いろ",
+  "pitch": 0,
+  "definition": "各式各樣的",
+  "type": "な形"
+ },
+ {
+  "kanji": "岩",
+  "hiragana": "いわ",
+  "pitch": 2,
+  "definition": "岩石",
+  "type": "名詞"
+ },
+ {
+  "kanji": "上",
+  "hiragana": "うえ",
+  "pitch": 0,
+  "definition": "上、上面",
+  "type": "名詞"
+ },
+ {
+  "kanji": "後ろ",
+  "hiragana": "うし.ろ",
+  "pitch": 0,
+  "definition": "後面、後方",
+  "type": "名詞"
+ },
+ {
+  "kanji": "薄い",
+  "hiragana": "うす.い",
+  "pitch": 0,
+  "definition": "薄的、淺的",
+  "type": "い形"
+ },
+ {
+  "kanji": "歌",
+  "hiragana": "うた",
+  "pitch": 2,
+  "definition": "歌、歌曲",
+  "type": "名詞"
+ },
+ {
+  "kanji": "歌う",
+  "hiragana": "うた.う",
+  "pitch": 2,
+  "definition": "唱歌、歌頌",
+  "type": "他動一"
+ },
+ {
+  "kanji": "家",
+  "hiragana": "うち",
+  "pitch": 0,
+  "definition": "家、房子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "生まれる",
+  "hiragana": "う.まれる",
+  "pitch": 0,
+  "definition": "出生、出現",
+  "type": "自動二"
+ },
+ {
+  "kanji": "海",
+  "hiragana": "うみ",
+  "pitch": 1,
+  "definition": "海、海洋",
+  "type": "名詞"
+ },
+ {
+  "kanji": "売る",
+  "hiragana": "う.る",
+  "pitch": 0,
+  "definition": "賣、販售",
+  "type": "他動一"
+ },
+ {
+  "kanji": "煩い",
+  "hiragana": "うる.さい",
+  "pitch": 3,
+  "definition": "吵的",
+  "type": "い形"
+ },
+ {
+  "kanji": "嬉しい",
+  "hiragana": "うれ.しい",
+  "pitch": 3,
+  "definition": "開心的、高興的",
+  "type": "い形"
+ },
+ {
+  "kanji": "上着",
+  "hiragana": "うわ.ぎ",
+  "pitch": 0,
+  "definition": "外套、上衣",
+  "type": "名詞"
+ },
+ {
+  "kanji": "絵",
+  "hiragana": "え",
+  "pitch": 1,
+  "definition": "圖畫、畫",
+  "type": "名詞"
+ },
+ {
+  "kanji": "映画",
+  "hiragana": "えい.が",
+  "pitch": 1,
+  "definition": "電影",
+  "type": "名詞"
+ },
+ {
+  "kanji": "映画館",
+  "hiragana": "えい.が.かん",
+  "pitch": 3,
+  "definition": "電影院",
+  "type": "名詞"
+ },
+ {
+  "kanji": "英語",
+  "hiragana": "えい.ご",
+  "pitch": 0,
+  "definition": "英語",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ええ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "嗯、對、是",
+  "type": "感嘆"
+ },
+ {
+  "kanji": "駅",
+  "hiragana": "えき",
+  "pitch": 1,
+  "definition": "車站",
+  "type": "名詞"
+ },
+ {
+  "kanji": "エレベーター",
+  "hiragana": "無",
+  "pitch": 3,
+  "definition": "電梯、升降梯",
+  "type": "名詞"
+ },
+ {
+  "kanji": "円",
+  "hiragana": "えん",
+  "pitch": 1,
+  "definition": "日圓",
+  "type": "名詞"
+ },
+ {
+  "kanji": "鉛筆",
+  "hiragana": "えん.ぴつ",
+  "pitch": 0,
+  "definition": "鉛筆",
+  "type": "名詞"
+ },
+ {
+  "kanji": "御",
+  "hiragana": "お",
+  "pitch": 1,
+  "definition": "表示尊敬或禮貌",
+  "type": "接頭"
+ },
+ {
+  "kanji": "美味しい",
+  "hiragana": "おい.しい",
+  "pitch": 0,
+  "definition": "好吃的、美味的",
+  "type": "い形"
+ },
+ {
+  "kanji": "多い",
+  "hiragana": "おお.い",
+  "pitch": 1,
+  "definition": "多的",
+  "type": "い形"
+ },
+ {
+  "kanji": "大きい",
+  "hiragana": "おお.きい",
+  "pitch": 3,
+  "definition": "大的、巨大的、高大的",
+  "type": "い形"
+ },
+ {
+  "kanji": "大勢",
+  "hiragana": "おお.ぜい",
+  "pitch": 3,
+  "definition": "眾多",
+  "type": "名詞"
+ },
+ {
+  "kanji": "お母さん",
+  "hiragana": "お.かあ.さん",
+  "pitch": 2,
+  "definition": "媽媽、母親",
+  "type": "名詞"
+ },
+ {
+  "kanji": "お菓子",
+  "hiragana": "お.か.し",
+  "pitch": 2,
+  "definition": "點心",
+  "type": "名詞"
+ },
+ {
+  "kanji": "お金",
+  "hiragana": "お.かね",
+  "pitch": 0,
+  "definition": "金錢",
+  "type": "名詞"
+ },
+ {
+  "kanji": "起きる",
+  "hiragana": "お.きる",
+  "pitch": 2,
+  "definition": "起來、起床",
+  "type": "自動二"
+ },
+ {
+  "kanji": "置く",
+  "hiragana": "お.く",
+  "pitch": 0,
+  "definition": "放置、放下、設置",
+  "type": "他動一"
+ },
+ {
+  "kanji": "奥さん",
+  "hiragana": "おく.さん",
+  "pitch": 1,
+  "definition": "夫人、太太",
+  "type": "名詞"
+ },
+ {
+  "kanji": "お酒",
+  "hiragana": "お.さけ",
+  "pitch": 0,
+  "definition": "酒",
+  "type": "名詞"
+ },
+ {
+  "kanji": "お皿",
+  "hiragana": "お.さら",
+  "pitch": 0,
+  "definition": "盤子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "おじさん",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "伯父、叔叔",
+  "type": "名詞"
+ },
+ {
+  "kanji": "お爺さん",
+  "hiragana": "お.じい.さん",
+  "pitch": 2,
+  "definition": "祖父、爺爺、外公(尊稱)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "教える",
+  "hiragana": "お.しえる",
+  "pitch": 0,
+  "definition": "教導、告訴",
+  "type": "他動二"
+ },
+ {
+  "kanji": "押す",
+  "hiragana": "お.す",
+  "pitch": 0,
+  "definition": "壓、按",
+  "type": "他動一"
+ },
+ {
+  "kanji": "遅い",
+  "hiragana": "おそ.い",
+  "pitch": 0,
+  "definition": "慢的、遲的、晚的",
+  "type": "い形"
+ },
+ {
+  "kanji": "お茶",
+  "hiragana": "お.ちゃ",
+  "pitch": 0,
+  "definition": "茶",
+  "type": "名詞"
+ },
+ {
+  "kanji": "御手洗い",
+  "hiragana": "お.て.あら.い",
+  "pitch": 3,
+  "definition": "洗手間、廁所",
+  "type": "名詞"
+ },
+ {
+  "kanji": "お父さん",
+  "hiragana": "お.とう.さん",
+  "pitch": 2,
+  "definition": "父親、爸爸(尊稱)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "弟",
+  "hiragana": "おとうと",
+  "pitch": 4,
+  "definition": "弟弟",
+  "type": "名詞"
+ },
+ {
+  "kanji": "男",
+  "hiragana": "おとこ",
+  "pitch": 3,
+  "definition": "男人",
+  "type": "名詞"
+ },
+ {
+  "kanji": "男の子",
+  "hiragana": "おとこ.の.こ",
+  "pitch": 3,
+  "definition": "男孩子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "おととい",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "前天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "おととし",
+  "hiragana": "無",
+  "pitch": 2,
+  "definition": "前年",
+  "type": "名詞"
+ },
+ {
+  "kanji": "大人",
+  "hiragana": "おとな",
+  "pitch": 0,
+  "definition": "大人、成人",
+  "type": "名詞"
+ },
+ {
+  "kanji": "お腹",
+  "hiragana": "お.なか",
+  "pitch": 0,
+  "definition": "肚子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "同じ",
+  "hiragana": "おな.じ",
+  "pitch": 0,
+  "definition": "一樣的、相同的",
+  "type": "な形"
+ },
+ {
+  "kanji": "お兄さん",
+  "hiragana": "お.にい.さん",
+  "pitch": 2,
+  "definition": "哥哥、家兄(尊稱)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "お姉さん",
+  "hiragana": "お.ねえ.さん",
+  "pitch": 2,
+  "definition": "姊姊(尊稱)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "おばさん",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "伯母",
+  "type": "名詞"
+ },
+ {
+  "kanji": "お婆さん",
+  "hiragana": "お.ばあ.さん",
+  "pitch": 2,
+  "definition": "祖母、奶奶、外婆(尊稱)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "お風呂",
+  "hiragana": "お.ふ.ろ",
+  "pitch": 2,
+  "definition": "浴池、浴室",
+  "type": "名詞"
+ },
+ {
+  "kanji": "お弁当",
+  "hiragana": "お.べん.と",
+  "pitch": 0,
+  "definition": "便當",
+  "type": "名詞"
+ },
+ {
+  "kanji": "覚える",
+  "hiragana": "おぼ.える",
+  "pitch": 3,
+  "definition": "記得、學會",
+  "type": "他動二"
+ },
+ {
+  "kanji": "お巡りさん",
+  "hiragana": "お.まわ.りさん",
+  "pitch": 2,
+  "definition": "警察、巡警",
+  "type": "名詞"
+ },
+ {
+  "kanji": "重い",
+  "hiragana": "おも.い",
+  "pitch": 0,
+  "definition": "重的、沉重的",
+  "type": "い形"
+ },
+ {
+  "kanji": "面白い",
+  "hiragana": "おも.しろ.い",
+  "pitch": 4,
+  "definition": "有趣的、好笑的",
+  "type": "い形"
+ },
+ {
+  "kanji": "泳ぐ",
+  "hiragana": "およ.ぐ",
+  "pitch": 2,
+  "definition": "游泳",
+  "type": "自動一"
+ },
+ {
+  "kanji": "降りる",
+  "hiragana": "お.りる",
+  "pitch": 2,
+  "definition": "降下、掉下",
+  "type": "自動二"
+ },
+ {
+  "kanji": "終わる",
+  "hiragana": "お.わる",
+  "pitch": 0,
+  "definition": "結束、完畢",
+  "type": "自動一"
+ },
+ {
+  "kanji": "音楽",
+  "hiragana": "おん.がく",
+  "pitch": 1,
+  "definition": "音樂",
+  "type": "名詞"
+ },
+ {
+  "kanji": "女",
+  "hiragana": "おんな",
+  "pitch": 3,
+  "definition": "女人",
+  "type": "名詞"
+ },
+ {
+  "kanji": "女の子",
+  "hiragana": "おんな.の.こ",
+  "pitch": 3,
+  "definition": "女孩子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～回",
+  "hiragana": "～かい",
+  "pitch": "無",
+  "definition": "~回、~次",
+  "type": "接尾"
+ },
+ {
+  "kanji": "～階",
+  "hiragana": "～かい",
+  "pitch": "無",
+  "definition": "~樓",
+  "type": "接尾"
+ },
+ {
+  "kanji": "外国",
+  "hiragana": "がい.こく",
+  "pitch": 0,
+  "definition": "國外",
+  "type": "名詞"
+ },
+ {
+  "kanji": "外国人",
+  "hiragana": "がい.こく.じん",
+  "pitch": 4,
+  "definition": "外國人",
+  "type": "名詞"
+ },
+ {
+  "kanji": "会社",
+  "hiragana": "かい.しゃ",
+  "pitch": 0,
+  "definition": "公司",
+  "type": "名詞"
+ },
+ {
+  "kanji": "階段",
+  "hiragana": "かい.だん",
+  "pitch": 0,
+  "definition": "樓梯、等級",
+  "type": "名詞"
+ },
+ {
+  "kanji": "買い物",
+  "hiragana": "か.い.もの",
+  "pitch": 0,
+  "definition": "購物",
+  "type": "名詞"
+ },
+ {
+  "kanji": "買う",
+  "hiragana": "か.う",
+  "pitch": 0,
+  "definition": "買",
+  "type": "他動一"
+ },
+ {
+  "kanji": "返す",
+  "hiragana": "かえ.す",
+  "pitch": 1,
+  "definition": "歸還、回去",
+  "type": "自動一"
+ },
+ {
+  "kanji": "帰る",
+  "hiragana": "かえ.る",
+  "pitch": 1,
+  "definition": "返回、回歸",
+  "type": "自動一"
+ },
+ {
+  "kanji": "顔",
+  "hiragana": "かお",
+  "pitch": 0,
+  "definition": "臉",
+  "type": "名詞"
+ },
+ {
+  "kanji": "掛かる",
+  "hiragana": "か.かる",
+  "pitch": 2,
+  "definition": "需要、花費",
+  "type": "自動一"
+ },
+ {
+  "kanji": "鍵",
+  "hiragana": "かぎ",
+  "pitch": 2,
+  "definition": "鑰匙",
+  "type": "名詞"
+ },
+ {
+  "kanji": "書く",
+  "hiragana": "か.く",
+  "pitch": 1,
+  "definition": "寫",
+  "type": "他動一"
+ },
+ {
+  "kanji": "描く",
+  "hiragana": "か.く",
+  "pitch": 1,
+  "definition": "畫",
+  "type": "他動一"
+ },
+ {
+  "kanji": "学生",
+  "hiragana": "がく.せい",
+  "pitch": 0,
+  "definition": "學生",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～か月",
+  "hiragana": "～か.げつ",
+  "pitch": "無",
+  "definition": "~個月",
+  "type": "接尾"
+ },
+ {
+  "kanji": "掛ける（眼鏡を～）",
+  "hiragana": "か.ける",
+  "pitch": 2,
+  "definition": "戴(眼鏡)",
+  "type": "他動二"
+ },
+ {
+  "kanji": "掛ける（電話を～）",
+  "hiragana": "か.ける",
+  "pitch": 2,
+  "definition": "打(電話)",
+  "type": "他動二"
+ },
+ {
+  "kanji": "傘",
+  "hiragana": "かさ",
+  "pitch": 1,
+  "definition": "雨傘",
+  "type": "名詞"
+ },
+ {
+  "kanji": "貸す",
+  "hiragana": "か.す",
+  "pitch": 0,
+  "definition": "借出",
+  "type": "自動一"
+ },
+ {
+  "kanji": "風",
+  "hiragana": "かぜ",
+  "pitch": 0,
+  "definition": "風",
+  "type": "名詞"
+ },
+ {
+  "kanji": "風邪",
+  "hiragana": "か.ぜ",
+  "pitch": 0,
+  "definition": "感冒",
+  "type": "名詞"
+ },
+ {
+  "kanji": "家族",
+  "hiragana": "か.ぞく",
+  "pitch": 1,
+  "definition": "家族",
+  "type": "名詞"
+ },
+ {
+  "kanji": "方",
+  "hiragana": "かた",
+  "pitch": 0,
+  "definition": "位",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "片仮名",
+  "hiragana": "かた.か.な",
+  "pitch": 3,
+  "definition": "片假名",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～月",
+  "hiragana": "～がつ",
+  "pitch": "無",
+  "definition": "幾月",
+  "type": "接尾"
+ },
+ {
+  "kanji": "学校",
+  "hiragana": "がっ.こう",
+  "pitch": 0,
+  "definition": "學校",
+  "type": "名詞"
+ },
+ {
+  "kanji": "家庭",
+  "hiragana": "か.てい",
+  "pitch": 0,
+  "definition": "家庭",
+  "type": "名詞"
+ },
+ {
+  "kanji": "角",
+  "hiragana": "かど",
+  "pitch": 1,
+  "definition": "角、轉角",
+  "type": "名詞"
+ },
+ {
+  "kanji": "彼女",
+  "hiragana": "かの.じょ",
+  "pitch": 1,
+  "definition": "她、女朋友",
+  "type": "名詞"
+ },
+ {
+  "kanji": "鞄",
+  "hiragana": "かばん",
+  "pitch": 0,
+  "definition": "皮包、提包、公事包",
+  "type": "名詞"
+ },
+ {
+  "kanji": "花瓶",
+  "hiragana": "か.びん",
+  "pitch": 0,
+  "definition": "花瓶",
+  "type": "名詞"
+ },
+ {
+  "kanji": "被る",
+  "hiragana": "かぶ.る",
+  "pitch": 2,
+  "definition": "戴",
+  "type": "他動一"
+ },
+ {
+  "kanji": "紙",
+  "hiragana": "かみ",
+  "pitch": 2,
+  "definition": "紙",
+  "type": "名詞"
+ },
+ {
+  "kanji": "カメラ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "相機",
+  "type": "名詞"
+ },
+ {
+  "kanji": "火曜日",
+  "hiragana": "か.よう.び",
+  "pitch": 2,
+  "definition": "星期二",
+  "type": "名詞"
+ },
+ {
+  "kanji": "辛い",
+  "hiragana": "から.い",
+  "pitch": 2,
+  "definition": "辣的",
+  "type": "い形"
+ },
+ {
+  "kanji": "体",
+  "hiragana": "からだ",
+  "pitch": 0,
+  "definition": "身體",
+  "type": "名詞"
+ },
+ {
+  "kanji": "借りる",
+  "hiragana": "か.りる",
+  "pitch": 0,
+  "definition": "借",
+  "type": "他動二"
+ },
+ {
+  "kanji": "軽い",
+  "hiragana": "かる.い",
+  "pitch": 0,
+  "definition": "輕的",
+  "type": "い形"
+ },
+ {
+  "kanji": "彼",
+  "hiragana": "かれ",
+  "pitch": 1,
+  "definition": "他",
+  "type": "名詞"
+ },
+ {
+  "kanji": "カレー",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "咖哩",
+  "type": "名詞"
+ },
+ {
+  "kanji": "カレンダー",
+  "hiragana": "無",
+  "pitch": 2,
+  "definition": "月曆",
+  "type": "名詞"
+ },
+ {
+  "kanji": "川",
+  "hiragana": "かわ",
+  "pitch": 2,
+  "definition": "河",
+  "type": "名詞"
+ },
+ {
+  "kanji": "側",
+  "hiragana": "がわ",
+  "pitch": 2,
+  "definition": "旁邊、周圍",
+  "type": "名詞"
+ },
+ {
+  "kanji": "かわいい",
+  "hiragana": "無",
+  "pitch": 3,
+  "definition": "可愛的",
+  "type": "い形"
+ },
+ {
+  "kanji": "漢字",
+  "hiragana": "かん.じ",
+  "pitch": 0,
+  "definition": "漢字",
+  "type": "名詞"
+ },
+ {
+  "kanji": "簡単",
+  "hiragana": "かん.たん",
+  "pitch": 0,
+  "definition": "簡單的",
+  "type": "な形"
+ },
+ {
+  "kanji": "木",
+  "hiragana": "き",
+  "pitch": 1,
+  "definition": "樹木、木頭",
+  "type": "名詞"
+ },
+ {
+  "kanji": "黄色",
+  "hiragana": "き.いろ",
+  "pitch": 0,
+  "definition": "黃色",
+  "type": "名詞"
+ },
+ {
+  "kanji": "黄色い",
+  "hiragana": "き.いろ.い",
+  "pitch": 0,
+  "definition": "黃色的",
+  "type": "い形"
+ },
+ {
+  "kanji": "消える",
+  "hiragana": "き.える",
+  "pitch": 0,
+  "definition": "消失",
+  "type": "自動二"
+ },
+ {
+  "kanji": "聞く",
+  "hiragana": "き.く",
+  "pitch": 0,
+  "definition": "聽",
+  "type": "他動一"
+ },
+ {
+  "kanji": "北",
+  "hiragana": "き.た",
+  "pitch": 0,
+  "definition": "北方",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ギター",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "吉他",
+  "type": "名詞"
+ },
+ {
+  "kanji": "汚い",
+  "hiragana": "きたな.い",
+  "pitch": 3,
+  "definition": "髒的",
+  "type": "い形"
+ },
+ {
+  "kanji": "喫茶店",
+  "hiragana": "きっ.さ.てん",
+  "pitch": 0,
+  "definition": "咖啡店",
+  "type": "名詞"
+ },
+ {
+  "kanji": "切手",
+  "hiragana": "きっ.て",
+  "pitch": 0,
+  "definition": "郵票",
+  "type": "名詞"
+ },
+ {
+  "kanji": "切符",
+  "hiragana": "きっ.ぷ",
+  "pitch": 0,
+  "definition": "票券",
+  "type": "名詞"
+ },
+ {
+  "kanji": "昨日",
+  "hiragana": "きのう",
+  "pitch": 0,
+  "definition": "昨天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "九",
+  "hiragana": "きゅう",
+  "pitch": 1,
+  "definition": "九",
+  "type": "名詞"
+ },
+ {
+  "kanji": "牛肉",
+  "hiragana": "ぎゅう.にく",
+  "pitch": 0,
+  "definition": "牛肉",
+  "type": "名詞"
+ },
+ {
+  "kanji": "牛乳",
+  "hiragana": "ぎゅう.にゅう",
+  "pitch": 0,
+  "definition": "牛奶",
+  "type": "名詞"
+ },
+ {
+  "kanji": "今日",
+  "hiragana": "きょう",
+  "pitch": 1,
+  "definition": "今天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "教室",
+  "hiragana": "きょう.しつ",
+  "pitch": 0,
+  "definition": "教室",
+  "type": "名詞"
+ },
+ {
+  "kanji": "兄弟",
+  "hiragana": "きょう.だい",
+  "pitch": 1,
+  "definition": "兄弟",
+  "type": "名詞"
+ },
+ {
+  "kanji": "去年",
+  "hiragana": "きょ.ねん",
+  "pitch": 1,
+  "definition": "去年",
+  "type": "名詞"
+ },
+ {
+  "kanji": "嫌い",
+  "hiragana": "きら.い",
+  "pitch": 0,
+  "definition": "討厭的、不喜歡的",
+  "type": "い形"
+ },
+ {
+  "kanji": "切る",
+  "hiragana": "き.る",
+  "pitch": 1,
+  "definition": "剪、完結",
+  "type": "他動一"
+ },
+ {
+  "kanji": "着る",
+  "hiragana": "き.る",
+  "pitch": 0,
+  "definition": "穿",
+  "type": "他動二"
+ },
+ {
+  "kanji": "綺麗",
+  "hiragana": "き.れい",
+  "pitch": 1,
+  "definition": "漂亮的、美麗的",
+  "type": "な形"
+ },
+ {
+  "kanji": "キロ／キログラム",
+  "hiragana": "無",
+  "pitch": "1\/3",
+  "definition": "公斤",
+  "type": "名詞"
+ },
+ {
+  "kanji": "キロ／キロメートル",
+  "hiragana": "無",
+  "pitch": "1\/3",
+  "definition": "公里",
+  "type": "名詞"
+ },
+ {
+  "kanji": "銀行",
+  "hiragana": "ぎん.こう",
+  "pitch": 0,
+  "definition": "銀行",
+  "type": "名詞"
+ },
+ {
+  "kanji": "金曜日",
+  "hiragana": "きん.よう.び",
+  "pitch": 3,
+  "definition": "星期五",
+  "type": "名詞"
+ },
+ {
+  "kanji": "九",
+  "hiragana": "く",
+  "pitch": 1,
+  "definition": "九",
+  "type": "名詞"
+ },
+ {
+  "kanji": "薬",
+  "hiragana": "くすり",
+  "pitch": 0,
+  "definition": "藥",
+  "type": "名詞"
+ },
+ {
+  "kanji": "下さい",
+  "hiragana": "くだ.さい",
+  "pitch": 3,
+  "definition": "請~",
+  "type": "敬語"
+ },
+ {
+  "kanji": "果物",
+  "hiragana": "くだ.もの",
+  "pitch": 2,
+  "definition": "水果",
+  "type": "名詞"
+ },
+ {
+  "kanji": "口",
+  "hiragana": "くち",
+  "pitch": 0,
+  "definition": "嘴巴",
+  "type": "名詞"
+ },
+ {
+  "kanji": "靴",
+  "hiragana": "くつ",
+  "pitch": 2,
+  "definition": "鞋子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "靴下",
+  "hiragana": "くつ.した",
+  "pitch": 2,
+  "definition": "襪子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "国",
+  "hiragana": "くに",
+  "pitch": 0,
+  "definition": "國家",
+  "type": "名詞"
+ },
+ {
+  "kanji": "曇",
+  "hiragana": "くもり",
+  "pitch": 3,
+  "definition": "陰天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "曇る",
+  "hiragana": "くも.る",
+  "pitch": 2,
+  "definition": "變陰暗",
+  "type": "自動一"
+ },
+ {
+  "kanji": "暗い",
+  "hiragana": "くら.い",
+  "pitch": 0,
+  "definition": "暗的、視線不良的",
+  "type": "い形"
+ },
+ {
+  "kanji": "くらい\/ぐらい",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "大約",
+  "type": "副助"
+ },
+ {
+  "kanji": "クラス",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "班級、等級",
+  "type": "名詞"
+ },
+ {
+  "kanji": "グラス",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "玻璃杯",
+  "type": "名詞"
+ },
+ {
+  "kanji": "来る",
+  "hiragana": "く.る",
+  "pitch": 1,
+  "definition": "來",
+  "type": "自動三"
+ },
+ {
+  "kanji": "車",
+  "hiragana": "くるま",
+  "pitch": 0,
+  "definition": "車子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "黒",
+  "hiragana": "くろ",
+  "pitch": 1,
+  "definition": "黑色",
+  "type": "名詞"
+ },
+ {
+  "kanji": "黒い",
+  "hiragana": "くろ.い",
+  "pitch": 2,
+  "definition": "黑色的、黑的",
+  "type": "い形"
+ },
+ {
+  "kanji": "警官",
+  "hiragana": "けいかん",
+  "pitch": 0,
+  "definition": "警官",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ケーキ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "蛋糕",
+  "type": "名詞"
+ },
+ {
+  "kanji": "今朝",
+  "hiragana": "けさ",
+  "pitch": 1,
+  "definition": "今天早上",
+  "type": "名詞"
+ },
+ {
+  "kanji": "消す",
+  "hiragana": "けす",
+  "pitch": 0,
+  "definition": "消除、使不見",
+  "type": "他動一"
+ },
+ {
+  "kanji": "結構",
+  "hiragana": "けっこう",
+  "pitch": 1,
+  "definition": "很、相當",
+  "type": "副詞"
+ },
+ {
+  "kanji": "結婚",
+  "hiragana": "けっこん",
+  "pitch": 0,
+  "definition": "結婚",
+  "type": "名詞／他動三"
+ },
+ {
+  "kanji": "月曜日",
+  "hiragana": "げつようび",
+  "pitch": 3,
+  "definition": "星期一",
+  "type": "名詞"
+ },
+ {
+  "kanji": "玄関",
+  "hiragana": "げんかん",
+  "pitch": 1,
+  "definition": "玄關",
+  "type": "名詞"
+ },
+ {
+  "kanji": "元気",
+  "hiragana": "げんき",
+  "pitch": 1,
+  "definition": "健康的、元氣、精神",
+  "type": "名詞\/な形"
+ },
+ {
+  "kanji": "～個",
+  "hiragana": "こ",
+  "pitch": "無",
+  "definition": "~個",
+  "type": "接尾"
+ },
+ {
+  "kanji": "五",
+  "hiragana": "ご",
+  "pitch": 1,
+  "definition": "五、五個",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～語",
+  "hiragana": "ご",
+  "pitch": "無",
+  "definition": "~語",
+  "type": "接尾"
+ },
+ {
+  "kanji": "公園",
+  "hiragana": "こう.えん",
+  "pitch": 0,
+  "definition": "公園",
+  "type": "名詞"
+ },
+ {
+  "kanji": "交差点",
+  "hiragana": "こう.さ.てん",
+  "pitch": 0,
+  "definition": "十字路口、交叉點",
+  "type": "名詞"
+ },
+ {
+  "kanji": "紅茶",
+  "hiragana": "こう.ちゃ",
+  "pitch": 0,
+  "definition": "紅茶",
+  "type": "名詞"
+ },
+ {
+  "kanji": "交番",
+  "hiragana": "こう.ばん",
+  "pitch": 0,
+  "definition": "派出所",
+  "type": "名詞"
+ },
+ {
+  "kanji": "声",
+  "hiragana": "こえ",
+  "pitch": 1,
+  "definition": "聲音",
+  "type": "名詞"
+ },
+ {
+  "kanji": "コート",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "外套",
+  "type": "名詞"
+ },
+ {
+  "kanji": "コーヒー",
+  "hiragana": "無",
+  "pitch": 3,
+  "definition": "咖啡",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ここ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "這裡、這個時候",
+  "type": "名詞"
+ },
+ {
+  "kanji": "午後",
+  "hiragana": "ごご",
+  "pitch": 1,
+  "definition": "下午、午後",
+  "type": "名詞"
+ },
+ {
+  "kanji": "九日",
+  "hiragana": "ここの.か",
+  "pitch": 4,
+  "definition": "九日、九號、九天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "九つ",
+  "hiragana": "ここの.つ",
+  "pitch": 2,
+  "definition": "九個、九歲",
+  "type": "名詞"
+ },
+ {
+  "kanji": "午前",
+  "hiragana": "ご.ぜん",
+  "pitch": 1,
+  "definition": "上午、中午前",
+  "type": "名詞"
+ },
+ {
+  "kanji": "答える",
+  "hiragana": "こた.える",
+  "pitch": 3,
+  "definition": "回答、答覆",
+  "type": "自動二"
+ },
+ {
+  "kanji": "こちら",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "這裡、這邊、這方面(普通)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "こっち",
+  "hiragana": "無",
+  "pitch": 3,
+  "definition": "這裡、這邊、這方面(口語)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "コップ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "杯子(有把手)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "今年",
+  "hiragana": "ことし",
+  "pitch": 0,
+  "definition": "今年",
+  "type": "名詞"
+ },
+ {
+  "kanji": "言葉",
+  "hiragana": "こと.ば",
+  "pitch": 3,
+  "definition": "語言、話",
+  "type": "名詞"
+ },
+ {
+  "kanji": "子供",
+  "hiragana": "こ.ども",
+  "pitch": 0,
+  "definition": "小孩、兒童",
+  "type": "名詞"
+ },
+ {
+  "kanji": "この",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "這、這個(接名詞)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ご飯",
+  "hiragana": "ご.はん",
+  "pitch": 1,
+  "definition": "飯",
+  "type": "名詞"
+ },
+ {
+  "kanji": "コピー",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "影印、複製",
+  "type": "名詞"
+ },
+ {
+  "kanji": "困る",
+  "hiragana": "こま.る",
+  "pitch": 2,
+  "definition": "為難、困擾",
+  "type": "自動一"
+ },
+ {
+  "kanji": "これ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "此、這個(不接名詞)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "頃",
+  "hiragana": "ころ\/ごろ",
+  "pitch": 1,
+  "definition": "~時候、~時期、左右",
+  "type": "名詞"
+ },
+ {
+  "kanji": "今月",
+  "hiragana": "こん.げつ",
+  "pitch": 0,
+  "definition": "這個月",
+  "type": "名詞"
+ },
+ {
+  "kanji": "今週",
+  "hiragana": "こん.しゅう",
+  "pitch": 0,
+  "definition": "這周",
+  "type": "名詞"
+ },
+ {
+  "kanji": "こんな",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "這樣的",
+  "type": "連體"
+ },
+ {
+  "kanji": "今晩",
+  "hiragana": "こん.ばん",
+  "pitch": 1,
+  "definition": "今晚、今夜",
+  "type": "名詞"
+ },
+ {
+  "kanji": "さあ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "來吧、那麼、哎呀",
+  "type": "感嘆"
+ },
+ {
+  "kanji": "～歳",
+  "hiragana": "～さい",
+  "pitch": "無",
+  "definition": "~歲",
+  "type": "接尾"
+ },
+ {
+  "kanji": "最後",
+  "hiragana": "さい.ご",
+  "pitch": 1,
+  "definition": "最後、最終",
+  "type": "名詞"
+ },
+ {
+  "kanji": "最初",
+  "hiragana": "さい.しょ",
+  "pitch": 0,
+  "definition": "最初、開始",
+  "type": "名詞"
+ },
+ {
+  "kanji": "財布",
+  "hiragana": "さい.ふ",
+  "pitch": 0,
+  "definition": "錢包",
+  "type": "名詞"
+ },
+ {
+  "kanji": "魚",
+  "hiragana": "さかな",
+  "pitch": 0,
+  "definition": "魚",
+  "type": "名詞"
+ },
+ {
+  "kanji": "先",
+  "hiragana": "さき",
+  "pitch": 0,
+  "definition": "先、先前",
+  "type": "名詞"
+ },
+ {
+  "kanji": "咲く",
+  "hiragana": "さ.く",
+  "pitch": 0,
+  "definition": "開(花)",
+  "type": "自動一"
+ },
+ {
+  "kanji": "作文",
+  "hiragana": "さく.ぶん",
+  "pitch": 0,
+  "definition": "作文、文章",
+  "type": "名詞"
+ },
+ {
+  "kanji": "さす",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "舉、撐",
+  "type": "他動一"
+ },
+ {
+  "kanji": "～冊",
+  "hiragana": "～さつ",
+  "pitch": "無",
+  "definition": "~本、~冊",
+  "type": "接尾"
+ },
+ {
+  "kanji": "雑誌",
+  "hiragana": "ざっ.し",
+  "pitch": 0,
+  "definition": "雜誌",
+  "type": "名詞"
+ },
+ {
+  "kanji": "砂糖",
+  "hiragana": "さ.とう",
+  "pitch": 2,
+  "definition": "砂糖",
+  "type": "名詞"
+ },
+ {
+  "kanji": "寒い",
+  "hiragana": "さむ.い",
+  "pitch": 2,
+  "definition": "寒冷的",
+  "type": "い形"
+ },
+ {
+  "kanji": "再来年",
+  "hiragana": "さ.らい.ねん",
+  "pitch": 0,
+  "definition": "後年",
+  "type": "名詞"
+ },
+ {
+  "kanji": "三",
+  "hiragana": "さん",
+  "pitch": 0,
+  "definition": "三",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～さん",
+  "hiragana": "無",
+  "pitch": "無",
+  "definition": "~先生~小姐",
+  "type": "接尾"
+ },
+ {
+  "kanji": "散歩",
+  "hiragana": "さん.ぽ",
+  "pitch": 0,
+  "definition": "散步",
+  "type": "名詞"
+ },
+ {
+  "kanji": "四",
+  "hiragana": "し",
+  "pitch": 1,
+  "definition": "四",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～時",
+  "hiragana": "～じ",
+  "pitch": "無",
+  "definition": "~點",
+  "type": "接尾"
+ },
+ {
+  "kanji": "塩",
+  "hiragana": "しお",
+  "pitch": 2,
+  "definition": "鹽、鹽巴",
+  "type": "名詞"
+ },
+ {
+  "kanji": "時間",
+  "hiragana": "じ.かん",
+  "pitch": 0,
+  "definition": "時間、時刻",
+  "type": "名詞"
+ },
+ {
+  "kanji": "時間",
+  "hiragana": "じ.かん",
+  "pitch": 0,
+  "definition": "小時、鐘頭",
+  "type": "名詞"
+ },
+ {
+  "kanji": "仕事",
+  "hiragana": "し.ごと",
+  "pitch": 0,
+  "definition": "工作、職業",
+  "type": "名詞"
+ },
+ {
+  "kanji": "辞書",
+  "hiragana": "じ.しょ",
+  "pitch": 1,
+  "definition": "字典、辭典",
+  "type": "名詞"
+ },
+ {
+  "kanji": "静か",
+  "hiragana": "しず.か",
+  "pitch": 1,
+  "definition": "安靜的、幽靜的",
+  "type": "な形"
+ },
+ {
+  "kanji": "下",
+  "hiragana": "した",
+  "pitch": 0,
+  "definition": "下、下面",
+  "type": "名詞"
+ },
+ {
+  "kanji": "七",
+  "hiragana": "しち",
+  "pitch": 2,
+  "definition": "七",
+  "type": "名詞"
+ },
+ {
+  "kanji": "質問",
+  "hiragana": "しつ.もん",
+  "pitch": 0,
+  "definition": "問題、詢問",
+  "type": "名詞／他動三"
+ },
+ {
+  "kanji": "自転車",
+  "hiragana": "じ.てん.しゃ",
+  "pitch": 0,
+  "definition": "腳踏車",
+  "type": "名詞"
+ },
+ {
+  "kanji": "自動車",
+  "hiragana": "じ.どう.しゃ",
+  "pitch": 0,
+  "definition": "汽車",
+  "type": "名詞"
+ },
+ {
+  "kanji": "死ぬ",
+  "hiragana": "しぬ",
+  "pitch": 0,
+  "definition": "死",
+  "type": "自動一"
+ },
+ {
+  "kanji": "自分",
+  "hiragana": "じ.ぶん",
+  "pitch": 0,
+  "definition": "自己",
+  "type": "名詞"
+ },
+ {
+  "kanji": "閉まる",
+  "hiragana": "し.まる",
+  "pitch": 2,
+  "definition": "關閉",
+  "type": "自動一"
+ },
+ {
+  "kanji": "閉める",
+  "hiragana": "し.める",
+  "pitch": 2,
+  "definition": "關上、關起來",
+  "type": "他動一"
+ },
+ {
+  "kanji": "締める",
+  "hiragana": "し.める",
+  "pitch": 2,
+  "definition": "繫上、綁緊",
+  "type": "他動二"
+ },
+ {
+  "kanji": "じゃ\/じゃあ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "那麼",
+  "type": "助動"
+ },
+ {
+  "kanji": "写真",
+  "hiragana": "しゃ.しん",
+  "pitch": 0,
+  "definition": "照片、相片",
+  "type": "名詞"
+ },
+ {
+  "kanji": "シャツ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "襯衫",
+  "type": "名詞"
+ },
+ {
+  "kanji": "シャワー",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "淋浴",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～中",
+  "hiragana": "～じゅう",
+  "pitch": "無",
+  "definition": "~中",
+  "type": "接尾"
+ },
+ {
+  "kanji": "十",
+  "hiragana": "じゅう",
+  "pitch": 1,
+  "definition": "十",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～週間",
+  "hiragana": "しゅう.かん",
+  "pitch": "無",
+  "definition": "~星期、~周",
+  "type": "接尾"
+ },
+ {
+  "kanji": "ジュース",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "果汁",
+  "type": "名詞"
+ },
+ {
+  "kanji": "授業",
+  "hiragana": "じゅ.ぎょう",
+  "pitch": 1,
+  "definition": "課程、教課",
+  "type": "名詞"
+ },
+ {
+  "kanji": "宿題",
+  "hiragana": "しょく.だい",
+  "pitch": 0,
+  "definition": "作業、功課",
+  "type": "名詞"
+ },
+ {
+  "kanji": "上手",
+  "hiragana": "じょう.ず",
+  "pitch": 3,
+  "definition": "厲害的、擅長的、拿手的",
+  "type": "名詞\/な形"
+ },
+ {
+  "kanji": "丈夫",
+  "hiragana": "じょう.ぶ",
+  "pitch": 0,
+  "definition": "結實的、強壯的、健康的",
+  "type": "な形"
+ },
+ {
+  "kanji": "醤油",
+  "hiragana": "しょう.ゆ",
+  "pitch": 0,
+  "definition": "醬油",
+  "type": "名詞"
+ },
+ {
+  "kanji": "食堂",
+  "hiragana": "しょく.どう",
+  "pitch": 0,
+  "definition": "餐廳、飯館",
+  "type": "名詞"
+ },
+ {
+  "kanji": "知る",
+  "hiragana": "し.る",
+  "pitch": 0,
+  "definition": "知道、曉得",
+  "type": "他動一"
+ },
+ {
+  "kanji": "白",
+  "hiragana": "しろ",
+  "pitch": 1,
+  "definition": "白色",
+  "type": "名詞"
+ },
+ {
+  "kanji": "白い",
+  "hiragana": "しろ.い",
+  "pitch": 2,
+  "definition": "白色的",
+  "type": "い形"
+ },
+ {
+  "kanji": "～人",
+  "hiragana": "～じん",
+  "pitch": "無",
+  "definition": "~人",
+  "type": "接尾"
+ },
+ {
+  "kanji": "新聞",
+  "hiragana": "しん.ぶん",
+  "pitch": 0,
+  "definition": "報紙",
+  "type": "名詞"
+ },
+ {
+  "kanji": "水曜日",
+  "hiragana": "すい.よう.び",
+  "pitch": 3,
+  "definition": "星期三",
+  "type": "名詞"
+ },
+ {
+  "kanji": "吸う",
+  "hiragana": "す.う",
+  "pitch": 0,
+  "definition": "吸、抽",
+  "type": "他動一"
+ },
+ {
+  "kanji": "スカート",
+  "hiragana": "無",
+  "pitch": 2,
+  "definition": "裙子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "好き",
+  "hiragana": "す.き",
+  "pitch": 2,
+  "definition": "喜歡、喜愛",
+  "type": "名詞\/な形"
+ },
+ {
+  "kanji": "～すぎ",
+  "hiragana": "無",
+  "pitch": "無",
+  "definition": "~太超過",
+  "type": "接尾"
+ },
+ {
+  "kanji": "すぐ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "馬上、立刻",
+  "type": "副助"
+ },
+ {
+  "kanji": "少ない",
+  "hiragana": "すく.ない",
+  "pitch": 3,
+  "definition": "少的、不多的",
+  "type": "い形"
+ },
+ {
+  "kanji": "少し",
+  "hiragana": "すこ.し",
+  "pitch": 2,
+  "definition": "一點點、稍微",
+  "type": "副詞"
+ },
+ {
+  "kanji": "寿司",
+  "hiragana": "す.し",
+  "pitch": 1,
+  "definition": "壽司",
+  "type": "名詞"
+ },
+ {
+  "kanji": "涼しい",
+  "hiragana": "すず.しい",
+  "pitch": 3,
+  "definition": "涼快的、涼爽的",
+  "type": "い形"
+ },
+ {
+  "kanji": "ずつ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "每、各",
+  "type": "副詞"
+ },
+ {
+  "kanji": "ストーブ",
+  "hiragana": "無",
+  "pitch": 2,
+  "definition": "暖爐、火爐",
+  "type": "名詞"
+ },
+ {
+  "kanji": "スプーン",
+  "hiragana": "無",
+  "pitch": 2,
+  "definition": "湯匙",
+  "type": "名詞"
+ },
+ {
+  "kanji": "スポーツ",
+  "hiragana": "無",
+  "pitch": 2,
+  "definition": "運動",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ズボン",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "長褲、褲子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "住む",
+  "hiragana": "す.む",
+  "pitch": 1,
+  "definition": "住、居住",
+  "type": "自動一"
+ },
+ {
+  "kanji": "スリッパ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "拖鞋",
+  "type": "名詞"
+ },
+ {
+  "kanji": "する",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "做",
+  "type": "自動三"
+ },
+ {
+  "kanji": "座る",
+  "hiragana": "すわ.る",
+  "pitch": 0,
+  "definition": "坐",
+  "type": "自動一"
+ },
+ {
+  "kanji": "背",
+  "hiragana": "せ",
+  "pitch": 1,
+  "definition": "身高、個子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "生徒",
+  "hiragana": "せい.と",
+  "pitch": 1,
+  "definition": "學生(大學以下)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "セーター",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "毛衣",
+  "type": "名詞"
+ },
+ {
+  "kanji": "石鹸",
+  "hiragana": "せっ.けん",
+  "pitch": 0,
+  "definition": "肥皂",
+  "type": "名詞"
+ },
+ {
+  "kanji": "狭い",
+  "hiragana": "せま.い",
+  "pitch": 2,
+  "definition": "狹小的、狹窄的",
+  "type": "い形"
+ },
+ {
+  "kanji": "ゼロ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "零",
+  "type": "名詞"
+ },
+ {
+  "kanji": "千",
+  "hiragana": "せん",
+  "pitch": 1,
+  "definition": "一千",
+  "type": "名詞"
+ },
+ {
+  "kanji": "先月",
+  "hiragana": "せん.げつ",
+  "pitch": 1,
+  "definition": "上個月",
+  "type": "名詞"
+ },
+ {
+  "kanji": "先週",
+  "hiragana": "せん.しゅう",
+  "pitch": 0,
+  "definition": "上星期、上周",
+  "type": "名詞"
+ },
+ {
+  "kanji": "先生",
+  "hiragana": "せん.せい",
+  "pitch": 3,
+  "definition": "老師、對專業人士的稱呼",
+  "type": "名詞"
+ },
+ {
+  "kanji": "洗濯",
+  "hiragana": "せん.たく",
+  "pitch": 0,
+  "definition": "洗衣服",
+  "type": "名詞"
+ },
+ {
+  "kanji": "全部",
+  "hiragana": "ぜん.ぶ",
+  "pitch": 1,
+  "definition": "全部",
+  "type": "副詞"
+ },
+ {
+  "kanji": "そう",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "是、對",
+  "type": "感嘆"
+ },
+ {
+  "kanji": "掃除",
+  "hiragana": "そう.じ",
+  "pitch": 0,
+  "definition": "掃除、打掃",
+  "type": "名詞／他動三"
+ },
+ {
+  "kanji": "そうして\/そして",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "然後、而且",
+  "type": "接續"
+ },
+ {
+  "kanji": "そこ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "那裡、那邊(普通、離說話者遠)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "そちら",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "那邊、那個(敬語、離說話者遠)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "そっち",
+  "hiragana": "無",
+  "pitch": 3,
+  "definition": "那邊、那個(口語、離說話者遠)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "外",
+  "hiragana": "そと",
+  "pitch": 1,
+  "definition": "外面、室外",
+  "type": "名詞"
+ },
+ {
+  "kanji": "その",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "那、那個(加名詞，離說話者遠)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "側",
+  "hiragana": "そば",
+  "pitch": 1,
+  "definition": "旁邊、附近",
+  "type": "名詞"
+ },
+ {
+  "kanji": "空",
+  "hiragana": "そら",
+  "pitch": 1,
+  "definition": "天空",
+  "type": "名詞"
+ },
+ {
+  "kanji": "それ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "那、那個(不加名詞，離說話者遠)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "それから",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "然後、接著",
+  "type": "接續"
+ },
+ {
+  "kanji": "それでは",
+  "hiragana": "無",
+  "pitch": 3,
+  "definition": "那麼、那樣的話",
+  "type": "接續"
+ },
+ {
+  "kanji": "～台",
+  "hiragana": "～だい",
+  "pitch": "無",
+  "definition": "~台、~輛",
+  "type": "接尾"
+ },
+ {
+  "kanji": "大学",
+  "hiragana": "だい.がく",
+  "pitch": 0,
+  "definition": "大學",
+  "type": "名詞"
+ },
+ {
+  "kanji": "大使館",
+  "hiragana": "たい.し.かん",
+  "pitch": 3,
+  "definition": "大使館",
+  "type": "名詞"
+ },
+ {
+  "kanji": "大丈夫",
+  "hiragana": "だい.じょう.ぶ",
+  "pitch": 3,
+  "definition": "沒問題、不要緊",
+  "type": "な形"
+ },
+ {
+  "kanji": "大好き",
+  "hiragana": "だい.す.き",
+  "pitch": 1,
+  "definition": "最喜歡",
+  "type": "な形"
+ },
+ {
+  "kanji": "大切",
+  "hiragana": "たい.せす",
+  "pitch": 0,
+  "definition": "重要的寶貴的",
+  "type": "な形"
+ },
+ {
+  "kanji": "台所",
+  "hiragana": "だい.ところ",
+  "pitch": 0,
+  "definition": "廚房(傳統的)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "大変",
+  "hiragana": "たい.へん",
+  "pitch": 0,
+  "definition": "嚴重、不得了",
+  "type": "な形"
+ },
+ {
+  "kanji": "高い",
+  "hiragana": "たか.い",
+  "pitch": 2,
+  "definition": "昂貴的、高的",
+  "type": "い形"
+ },
+ {
+  "kanji": "沢山",
+  "hiragana": "たく.さん",
+  "pitch": 0,
+  "definition": "很多、許多",
+  "type": "副詞／名詞"
+ },
+ {
+  "kanji": "タクシー",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "計程車",
+  "type": "名詞"
+ },
+ {
+  "kanji": "だけ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "只有",
+  "type": "副詞"
+ },
+ {
+  "kanji": "出す",
+  "hiragana": "だ.す",
+  "pitch": 1,
+  "definition": "拿出、提出",
+  "type": "他動一"
+ },
+ {
+  "kanji": "～達",
+  "hiragana": "～たち",
+  "pitch": "無",
+  "definition": "~們",
+  "type": "接尾"
+ },
+ {
+  "kanji": "立つ",
+  "hiragana": "た.つ",
+  "pitch": 1,
+  "definition": "站立、站著",
+  "type": "自動一"
+ },
+ {
+  "kanji": "建物",
+  "hiragana": "たて.もの",
+  "pitch": 2,
+  "definition": "建築物",
+  "type": "名詞"
+ },
+ {
+  "kanji": "楽しい",
+  "hiragana": "たの.しい",
+  "pitch": 3,
+  "definition": "快樂的、好玩的",
+  "type": "い形"
+ },
+ {
+  "kanji": "頼む",
+  "hiragana": "たの.む",
+  "pitch": 2,
+  "definition": "拜託、懇求",
+  "type": "自動一"
+ },
+ {
+  "kanji": "タバコ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "香菸",
+  "type": "名詞"
+ },
+ {
+  "kanji": "多分",
+  "hiragana": "た.ぶん",
+  "pitch": 1,
+  "definition": "大概、也許",
+  "type": "副詞"
+ },
+ {
+  "kanji": "食べ物",
+  "hiragana": "たべ.もの",
+  "pitch": 2,
+  "definition": "食物",
+  "type": "名詞"
+ },
+ {
+  "kanji": "食べる",
+  "hiragana": "た.べる",
+  "pitch": 2,
+  "definition": "吃",
+  "type": "他動二"
+ },
+ {
+  "kanji": "卵",
+  "hiragana": "たまご",
+  "pitch": 2,
+  "definition": "雞蛋",
+  "type": "名詞"
+ },
+ {
+  "kanji": "誰",
+  "hiragana": "だれ",
+  "pitch": 1,
+  "definition": "誰",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "誰か",
+  "hiragana": "だれ.が",
+  "pitch": 1,
+  "definition": "有人、某人",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "誕生日",
+  "hiragana": "たん.じょう.び",
+  "pitch": 3,
+  "definition": "生日",
+  "type": "名詞"
+ },
+ {
+  "kanji": "小さい",
+  "hiragana": "ちい.さい",
+  "pitch": 3,
+  "definition": "小的",
+  "type": "い形"
+ },
+ {
+  "kanji": "近い",
+  "hiragana": "ちか.い",
+  "pitch": 2,
+  "definition": "近的",
+  "type": "い形"
+ },
+ {
+  "kanji": "違う",
+  "hiragana": "ちが.う",
+  "pitch": 0,
+  "definition": "不同、不一樣",
+  "type": "自動一"
+ },
+ {
+  "kanji": "近く",
+  "hiragana": "ちか.く",
+  "pitch": 1,
+  "definition": "附近、近處",
+  "type": "副詞／名詞"
+ },
+ {
+  "kanji": "地下鉄",
+  "hiragana": "ちか.てつ",
+  "pitch": 0,
+  "definition": "地下鐵",
+  "type": "名詞"
+ },
+ {
+  "kanji": "地図",
+  "hiragana": "ち.ず",
+  "pitch": 1,
+  "definition": "地圖",
+  "type": "名詞"
+ },
+ {
+  "kanji": "父親",
+  "hiragana": "ちち",
+  "pitch": 1,
+  "definition": "爸爸、父親(稱呼自己的)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "茶色",
+  "hiragana": "ちゃ.いろ",
+  "pitch": 0,
+  "definition": "咖啡色、棕色",
+  "type": "名詞"
+ },
+ {
+  "kanji": "茶碗",
+  "hiragana": "ちゃ.わん",
+  "pitch": 0,
+  "definition": "碗、飯碗",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～中",
+  "hiragana": "～ちゅう",
+  "pitch": "無",
+  "definition": "~之中、在~裡",
+  "type": "接尾"
+ },
+ {
+  "kanji": "ちょうど",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "正好、剛好",
+  "type": "副詞"
+ },
+ {
+  "kanji": "ちょっと",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "稍微、一點點",
+  "type": "副詞"
+ },
+ {
+  "kanji": "一日",
+  "hiragana": "つい.たち",
+  "pitch": 4,
+  "definition": "一號、一日",
+  "type": "名詞"
+ },
+ {
+  "kanji": "使う",
+  "hiragana": "つか.う",
+  "pitch": 0,
+  "definition": "使用",
+  "type": "他動一"
+ },
+ {
+  "kanji": "疲れる",
+  "hiragana": "つか.れた",
+  "pitch": 3,
+  "definition": "疲勞、疲憊",
+  "type": "自動二"
+ },
+ {
+  "kanji": "次",
+  "hiragana": "つき",
+  "pitch": 2,
+  "definition": "下一個、接下來",
+  "type": "名詞"
+ },
+ {
+  "kanji": "着く",
+  "hiragana": "つ.く",
+  "pitch": 1,
+  "definition": "到達",
+  "type": "自動一"
+ },
+ {
+  "kanji": "机",
+  "hiragana": "つくえ",
+  "pitch": 0,
+  "definition": "桌子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "作る",
+  "hiragana": "つく.る",
+  "pitch": 2,
+  "definition": "做、作、製作",
+  "type": "他動一"
+ },
+ {
+  "kanji": "点ける",
+  "hiragana": "つ.ける",
+  "pitch": 2,
+  "definition": "打開、開(火爐、電燈)",
+  "type": "他動一"
+ },
+ {
+  "kanji": "勤める",
+  "hiragana": "つと.める",
+  "pitch": 3,
+  "definition": "工作(頭腦)",
+  "type": "他動二"
+ },
+ {
+  "kanji": "つまらない",
+  "hiragana": "無",
+  "pitch": 3,
+  "definition": "無聊的、無趣的",
+  "type": "い形"
+ },
+ {
+  "kanji": "冷たい",
+  "hiragana": "つめ.たい",
+  "pitch": 0,
+  "definition": "冷",
+  "type": "い形"
+ },
+ {
+  "kanji": "強い",
+  "hiragana": "つよ.い",
+  "pitch": 2,
+  "definition": "厲害的、強壯的",
+  "type": "い形"
+ },
+ {
+  "kanji": "手",
+  "hiragana": "て",
+  "pitch": 1,
+  "definition": "手",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ティッシュペーパー",
+  "hiragana": "無",
+  "pitch": 4,
+  "definition": "面紙",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ディーブイディー",
+  "hiragana": "無",
+  "pitch": 5,
+  "definition": "DVD",
+  "type": "名詞"
+ },
+ {
+  "kanji": "テープ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "錄音帶",
+  "type": "名詞"
+ },
+ {
+  "kanji": "テーブル",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "桌子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "テープレコーダー",
+  "hiragana": "無",
+  "pitch": 5,
+  "definition": "卡帶式收音機",
+  "type": "名詞"
+ },
+ {
+  "kanji": "出かける",
+  "hiragana": "で.かける",
+  "pitch": 0,
+  "definition": "出去、外出",
+  "type": "自動二"
+ },
+ {
+  "kanji": "手紙",
+  "hiragana": "て.がみ",
+  "pitch": 0,
+  "definition": "信件、書信",
+  "type": "名詞"
+ },
+ {
+  "kanji": "出来る",
+  "hiragana": "で.き.る",
+  "pitch": 2,
+  "definition": "會、能、可以",
+  "type": "自動二"
+ },
+ {
+  "kanji": "出口",
+  "hiragana": "でぐ.ち",
+  "pitch": 1,
+  "definition": "出口",
+  "type": "名詞"
+ },
+ {
+  "kanji": "テスト",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "考試、測驗",
+  "type": "名詞"
+ },
+ {
+  "kanji": "では",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "那麼",
+  "type": "感嘆／接續"
+ },
+ {
+  "kanji": "デパート",
+  "hiragana": "無",
+  "pitch": 2,
+  "definition": "百貨公司",
+  "type": "名詞"
+ },
+ {
+  "kanji": "でも",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "但是、可是",
+  "type": "接續"
+ },
+ {
+  "kanji": "出る",
+  "hiragana": "で.る",
+  "pitch": 1,
+  "definition": "出去、出來",
+  "type": "自動二"
+ },
+ {
+  "kanji": "テレビ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "電視",
+  "type": "名詞"
+ },
+ {
+  "kanji": "天気",
+  "hiragana": "てん.き",
+  "pitch": 1,
+  "definition": "天氣",
+  "type": "名詞"
+ },
+ {
+  "kanji": "電気",
+  "hiragana": "でん.き",
+  "pitch": 1,
+  "definition": "電、電力、電燈",
+  "type": "名詞"
+ },
+ {
+  "kanji": "電車",
+  "hiragana": "でん.しゃ",
+  "pitch": 0,
+  "definition": "電車",
+  "type": "名詞"
+ },
+ {
+  "kanji": "電話",
+  "hiragana": "でん.わ",
+  "pitch": 0,
+  "definition": "電話",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～度",
+  "hiragana": "～ど",
+  "pitch": "無",
+  "definition": "~度",
+  "type": "接尾"
+ },
+ {
+  "kanji": "ドア",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "門",
+  "type": "名詞"
+ },
+ {
+  "kanji": "トイレ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "廁所(外來語)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "トイレットペーパー",
+  "hiragana": "無",
+  "pitch": 6,
+  "definition": "衛生紙",
+  "type": "名詞"
+ },
+ {
+  "kanji": "どう",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "怎樣、如何",
+  "type": "副詞"
+ },
+ {
+  "kanji": "どうして",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "為什麼",
+  "type": "副詞"
+ },
+ {
+  "kanji": "どうぞ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "請、請吧",
+  "type": "副詞"
+ },
+ {
+  "kanji": "豆腐",
+  "hiragana": "とう.ふ",
+  "pitch": 0,
+  "definition": "豆腐",
+  "type": "名詞"
+ },
+ {
+  "kanji": "動物",
+  "hiragana": "どう.ぶつ",
+  "pitch": 0,
+  "definition": "動物",
+  "type": "名詞"
+ },
+ {
+  "kanji": "どうも",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "實在、太、謝謝",
+  "type": "副詞"
+ },
+ {
+  "kanji": "十",
+  "hiragana": "とお",
+  "pitch": 1,
+  "definition": "十",
+  "type": "名詞"
+ },
+ {
+  "kanji": "遠い",
+  "hiragana": "とお.い",
+  "pitch": 0,
+  "definition": "遠的、久遠的",
+  "type": "い形"
+ },
+ {
+  "kanji": "十日",
+  "hiragana": "とお.か",
+  "pitch": 0,
+  "definition": "十號、十天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "時",
+  "hiragana": "とき",
+  "pitch": 2,
+  "definition": "時候",
+  "type": "名詞"
+ },
+ {
+  "kanji": "時々",
+  "hiragana": "とき.どき",
+  "pitch": 0,
+  "definition": "有時候、時常",
+  "type": "副詞"
+ },
+ {
+  "kanji": "時計",
+  "hiragana": "と.けい",
+  "pitch": 0,
+  "definition": "時鐘、鐘錶",
+  "type": "名詞"
+ },
+ {
+  "kanji": "どこ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "哪裡、何處",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "何処か",
+  "hiragana": "ど.こ.か",
+  "pitch": 1,
+  "definition": "哪裡、某處",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "所",
+  "hiragana": "ところ",
+  "pitch": 3,
+  "definition": "場所、地方、地點",
+  "type": "名詞"
+ },
+ {
+  "kanji": "年",
+  "hiragana": "とし",
+  "pitch": 2,
+  "definition": "年",
+  "type": "名詞"
+ },
+ {
+  "kanji": "図書館",
+  "hiragana": "と.しょ.かん",
+  "pitch": 2,
+  "definition": "圖書館",
+  "type": "名詞"
+ },
+ {
+  "kanji": "どちら",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "哪邊、哪個(有禮貌)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "どっち",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "哪邊(口語)",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "とても",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "非常、很",
+  "type": "副詞"
+ },
+ {
+  "kanji": "どなた",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "哪位",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "隣",
+  "hiragana": "となり",
+  "pitch": 0,
+  "definition": "附近、鄰居",
+  "type": "名詞"
+ },
+ {
+  "kanji": "どの",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "哪個、哪位(加名詞)",
+  "type": "連體"
+ },
+ {
+  "kanji": "飛ぶ",
+  "hiragana": "と.ぶ",
+  "pitch": 0,
+  "definition": "飛翔、飛行",
+  "type": "自動一"
+ },
+ {
+  "kanji": "止まる",
+  "hiragana": "と.まる",
+  "pitch": 0,
+  "definition": "停止、停住",
+  "type": "自動一"
+ },
+ {
+  "kanji": "友達",
+  "hiragana": "とも.だち",
+  "pitch": 0,
+  "definition": "朋友",
+  "type": "名詞"
+ },
+ {
+  "kanji": "土曜日",
+  "hiragana": "ど.よう.び",
+  "pitch": 2,
+  "definition": "星期六",
+  "type": "名詞"
+ },
+ {
+  "kanji": "鳥",
+  "hiragana": "とり",
+  "pitch": 0,
+  "definition": "鳥",
+  "type": "名詞"
+ },
+ {
+  "kanji": "鶏肉",
+  "hiragana": "とり.にく",
+  "pitch": 0,
+  "definition": "雞肉",
+  "type": "名詞"
+ },
+ {
+  "kanji": "取る",
+  "hiragana": "と.る",
+  "pitch": 1,
+  "definition": "拿、取得",
+  "type": "他動一"
+ },
+ {
+  "kanji": "撮る",
+  "hiragana": "と.る",
+  "pitch": 1,
+  "definition": "照相、攝影",
+  "type": "他動一"
+ },
+ {
+  "kanji": "どれ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "哪個、哪位(不加名詞)",
+  "type": "助動"
+ },
+ {
+  "kanji": "どんな",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "什麼樣的、怎樣的",
+  "type": "連體"
+ },
+ {
+  "kanji": "ない",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "沒有",
+  "type": "い形"
+ },
+ {
+  "kanji": "ナイフ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "刀子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "中",
+  "hiragana": "なか",
+  "pitch": 1,
+  "definition": "裡面、中間",
+  "type": "名詞"
+ },
+ {
+  "kanji": "長い",
+  "hiragana": "なが.い",
+  "pitch": 2,
+  "definition": "長的",
+  "type": "い形"
+ },
+ {
+  "kanji": "ながら",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "一邊~一邊~",
+  "type": "接續助詞"
+ },
+ {
+  "kanji": "鳴く",
+  "hiragana": "な.く",
+  "pitch": 0,
+  "definition": "鳴叫",
+  "type": "自動一"
+ },
+ {
+  "kanji": "無くす",
+  "hiragana": "な.くす",
+  "pitch": 0,
+  "definition": "遺失、失去",
+  "type": "他動一"
+ },
+ {
+  "kanji": "なぜ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "為何、為什麼",
+  "type": "副詞"
+ },
+ {
+  "kanji": "夏",
+  "hiragana": "なつ",
+  "pitch": 2,
+  "definition": "夏天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "夏休み",
+  "hiragana": "なつ.やす.み",
+  "pitch": 3,
+  "definition": "暑假",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～など",
+  "hiragana": "無",
+  "pitch": "無",
+  "definition": "~之類、~等",
+  "type": "接尾"
+ },
+ {
+  "kanji": "七つ",
+  "hiragana": "なな.つ",
+  "pitch": 2,
+  "definition": "七個、七歲",
+  "type": "名詞"
+ },
+ {
+  "kanji": "何",
+  "hiragana": "なに",
+  "pitch": 1,
+  "definition": "什麼樣的、怎樣的",
+  "type": "代名詞"
+ },
+ {
+  "kanji": "七日",
+  "hiragana": "なの.か",
+  "pitch": 0,
+  "definition": "七號、七天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "名前",
+  "hiragana": "な.まえ",
+  "pitch": 0,
+  "definition": "名子、名稱",
+  "type": "名詞"
+ },
+ {
+  "kanji": "習う",
+  "hiragana": "なら.う",
+  "pitch": 2,
+  "definition": "學習",
+  "type": "他動一"
+ },
+ {
+  "kanji": "並ぶ",
+  "hiragana": "なら.ぶ",
+  "pitch": 0,
+  "definition": "排隊、排列",
+  "type": "自動一"
+ },
+ {
+  "kanji": "並べる",
+  "hiragana": "なら.べる",
+  "pitch": 0,
+  "definition": "並列、陳列、排列",
+  "type": "他動二"
+ },
+ {
+  "kanji": "なる",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "成為、變成",
+  "type": "自動一"
+ },
+ {
+  "kanji": "何",
+  "hiragana": "なん",
+  "pitch": 1,
+  "definition": "多少、什麼",
+  "type": "接頭"
+ },
+ {
+  "kanji": "二",
+  "hiragana": "に",
+  "pitch": 1,
+  "definition": "二",
+  "type": "名詞"
+ },
+ {
+  "kanji": "賑やか",
+  "hiragana": "にぎ.やか",
+  "pitch": 2,
+  "definition": "熱鬧、繁華",
+  "type": "な形"
+ },
+ {
+  "kanji": "肉",
+  "hiragana": "にく",
+  "pitch": 2,
+  "definition": "肉類",
+  "type": "名詞"
+ },
+ {
+  "kanji": "西",
+  "hiragana": "にし",
+  "pitch": 0,
+  "definition": "西邊",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～日",
+  "hiragana": "～にち",
+  "pitch": "無",
+  "definition": "~天、~號",
+  "type": "接尾"
+ },
+ {
+  "kanji": "日曜日",
+  "hiragana": "にち.よう.び",
+  "pitch": 3,
+  "definition": "星期天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "日本",
+  "hiragana": "に.ほん\/にっ.ぽん",
+  "pitch": "2\/3",
+  "definition": "日本",
+  "type": "名詞"
+ },
+ {
+  "kanji": "日本語",
+  "hiragana": "に.ほん.ご",
+  "pitch": 0,
+  "definition": "日語",
+  "type": "名詞"
+ },
+ {
+  "kanji": "荷物",
+  "hiragana": "に.もつ",
+  "pitch": 1,
+  "definition": "行李",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ニュース",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "新聞",
+  "type": "名詞"
+ },
+ {
+  "kanji": "庭",
+  "hiragana": "にわ",
+  "pitch": 0,
+  "definition": "庭院、院子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～人",
+  "hiragana": "～にん",
+  "pitch": "無",
+  "definition": "~人",
+  "type": "接尾"
+ },
+ {
+  "kanji": "脱ぐ",
+  "hiragana": "ぬ.ぐ",
+  "pitch": 1,
+  "definition": "脫掉",
+  "type": "他動一"
+ },
+ {
+  "kanji": "ネクタイ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "領帶",
+  "type": "名詞"
+ },
+ {
+  "kanji": "猫",
+  "hiragana": "ねこ",
+  "pitch": 1,
+  "definition": "貓",
+  "type": "名詞"
+ },
+ {
+  "kanji": "寝る",
+  "hiragana": "ね.る",
+  "pitch": 0,
+  "definition": "睡覺、就寢",
+  "type": "自動二"
+ },
+ {
+  "kanji": "～年",
+  "hiragana": "～ねん",
+  "pitch": "無",
+  "definition": "~年",
+  "type": "接尾"
+ },
+ {
+  "kanji": "ノート",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "筆記本",
+  "type": "名詞"
+ },
+ {
+  "kanji": "登る",
+  "hiragana": "のぼ.る",
+  "pitch": 0,
+  "definition": "攀登、爬上",
+  "type": "自動一"
+ },
+ {
+  "kanji": "飲み物",
+  "hiragana": "の.み.もの",
+  "pitch": 2,
+  "definition": "飲料",
+  "type": "名詞"
+ },
+ {
+  "kanji": "飲む",
+  "hiragana": "の.む",
+  "pitch": 1,
+  "definition": "喝",
+  "type": "他動一"
+ },
+ {
+  "kanji": "乗る",
+  "hiragana": "の.る",
+  "pitch": 0,
+  "definition": "乘坐、搭乘",
+  "type": "自動一"
+ },
+ {
+  "kanji": "歯",
+  "hiragana": "は",
+  "pitch": 1,
+  "definition": "牙齒",
+  "type": "名詞"
+ },
+ {
+  "kanji": "パーティー",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "派對",
+  "type": "名詞"
+ },
+ {
+  "kanji": "はい",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "是、好、可以",
+  "type": "感嘆"
+ },
+ {
+  "kanji": "～杯",
+  "hiragana": "～はい",
+  "pitch": "無",
+  "definition": "~杯",
+  "type": "接尾"
+ },
+ {
+  "kanji": "灰皿",
+  "hiragana": "はい.ざら",
+  "pitch": 0,
+  "definition": "菸灰缸",
+  "type": "名詞"
+ },
+ {
+  "kanji": "入る",
+  "hiragana": "はい.る",
+  "pitch": 1,
+  "definition": "進入",
+  "type": "自動一"
+ },
+ {
+  "kanji": "葉書",
+  "hiragana": "は.がき",
+  "pitch": 0,
+  "definition": "明信片",
+  "type": "名詞"
+ },
+ {
+  "kanji": "履く\/穿く",
+  "hiragana": "は.く",
+  "pitch": 2,
+  "definition": "穿",
+  "type": "他動一"
+ },
+ {
+  "kanji": "箱",
+  "hiragana": "はこ",
+  "pitch": 2,
+  "definition": "箱子、盒子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "箸",
+  "hiragana": "はし",
+  "pitch": 1,
+  "definition": "筷子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "橋",
+  "hiragana": "はし",
+  "pitch": 2,
+  "definition": "橋梁、天橋",
+  "type": "名詞"
+ },
+ {
+  "kanji": "始まる",
+  "hiragana": "はじ.まる",
+  "pitch": 0,
+  "definition": "開始、發生",
+  "type": "自動一"
+ },
+ {
+  "kanji": "初め",
+  "hiragana": "はじ.め",
+  "pitch": 0,
+  "definition": "開始、最初、起先",
+  "type": "名詞"
+ },
+ {
+  "kanji": "初めて",
+  "hiragana": "はじ.める",
+  "pitch": 2,
+  "definition": "第一次、初次",
+  "type": "副助"
+ },
+ {
+  "kanji": "走る",
+  "hiragana": "はし.る",
+  "pitch": 2,
+  "definition": "跑",
+  "type": "自動一"
+ },
+ {
+  "kanji": "バス",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "公車、巴士",
+  "type": "名詞"
+ },
+ {
+  "kanji": "バス旅行",
+  "hiragana": "バス.りょ.こう",
+  "pitch": 3,
+  "definition": "巴士旅行",
+  "type": "名詞"
+ },
+ {
+  "kanji": "バター",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "奶油",
+  "type": "名詞"
+ },
+ {
+  "kanji": "二十歳",
+  "hiragana": "はたち",
+  "pitch": 1,
+  "definition": "二十歲",
+  "type": "名詞"
+ },
+ {
+  "kanji": "働く",
+  "hiragana": "はたら.く",
+  "pitch": 0,
+  "definition": "工作(勞力)",
+  "type": "他動一"
+ },
+ {
+  "kanji": "八",
+  "hiragana": "はち",
+  "pitch": 2,
+  "definition": "八個、八",
+  "type": "名詞"
+ },
+ {
+  "kanji": "二十日",
+  "hiragana": "はつか",
+  "pitch": 0,
+  "definition": "二十號、二十日、二十天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "鼻",
+  "hiragana": "はな",
+  "pitch": 0,
+  "definition": "鼻子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "花",
+  "hiragana": "はな",
+  "pitch": 2,
+  "definition": "花",
+  "type": "名詞"
+ },
+ {
+  "kanji": "話",
+  "hiragana": "はなし",
+  "pitch": 3,
+  "definition": "說話",
+  "type": "名詞"
+ },
+ {
+  "kanji": "話す",
+  "hiragana": "はな.す",
+  "pitch": 2,
+  "definition": "講、講話、告訴",
+  "type": "他動一"
+ },
+ {
+  "kanji": "母",
+  "hiragana": "はは",
+  "pitch": 1,
+  "definition": "媽媽、母親(稱呼自己的)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "早い",
+  "hiragana": "はや.い",
+  "pitch": 2,
+  "definition": "早的",
+  "type": "い形"
+ },
+ {
+  "kanji": "速い",
+  "hiragana": "はや.い",
+  "pitch": 2,
+  "definition": "快的、快速的",
+  "type": "い形"
+ },
+ {
+  "kanji": "貼る",
+  "hiragana": "は.る",
+  "pitch": 0,
+  "definition": "貼",
+  "type": "他動一"
+ },
+ {
+  "kanji": "春",
+  "hiragana": "はる",
+  "pitch": 1,
+  "definition": "春天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "晴れ",
+  "hiragana": "は.れ",
+  "pitch": 2,
+  "definition": "晴天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "晴れる",
+  "hiragana": "は.れる",
+  "pitch": 2,
+  "definition": "放晴、變晴朗",
+  "type": "自動二"
+ },
+ {
+  "kanji": "~半",
+  "hiragana": "はん",
+  "pitch": 1,
+  "definition": "一半、二分之一(量詞)",
+  "type": "接續／名詞"
+ },
+ {
+  "kanji": "晩",
+  "hiragana": "ばん",
+  "pitch": 0,
+  "definition": "晚上、夜晚",
+  "type": "名詞"
+ },
+ {
+  "kanji": "~番",
+  "hiragana": "～ばん",
+  "pitch": "無",
+  "definition": "~號、次序",
+  "type": "接尾"
+ },
+ {
+  "kanji": "パン",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "麵包",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ハンカチ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "手帕",
+  "type": "名詞"
+ },
+ {
+  "kanji": "番号",
+  "hiragana": "ばん.ごう",
+  "pitch": 3,
+  "definition": "號碼",
+  "type": "名詞"
+ },
+ {
+  "kanji": "晩ご飯",
+  "hiragana": "ばん.ご.はん",
+  "pitch": 3,
+  "definition": "晚餐",
+  "type": "名詞"
+ },
+ {
+  "kanji": "半分",
+  "hiragana": "はん.ぶん",
+  "pitch": 3,
+  "definition": "一半、二分之一(名詞)",
+  "type": "名詞"
+ },
+ {
+  "kanji": "東",
+  "hiragana": "ひがし",
+  "pitch": 3,
+  "definition": "東方",
+  "type": "名詞"
+ },
+ {
+  "kanji": "~匹",
+  "hiragana": "～ひき",
+  "pitch": "無",
+  "definition": "~隻、~尾",
+  "type": "接尾"
+ },
+ {
+  "kanji": "引く",
+  "hiragana": "ひ.く",
+  "pitch": 0,
+  "definition": "拉出",
+  "type": "他動一"
+ },
+ {
+  "kanji": "弾く",
+  "hiragana": "ひ.く",
+  "pitch": 0,
+  "definition": "彈奏",
+  "type": "他動一"
+ },
+ {
+  "kanji": "低い",
+  "hiragana": "ひく.い",
+  "pitch": 2,
+  "definition": "矮的、低的",
+  "type": "い形"
+ },
+ {
+  "kanji": "飛行機",
+  "hiragana": "ひ.こう.き",
+  "pitch": 2,
+  "definition": "飛機",
+  "type": "名詞"
+ },
+ {
+  "kanji": "左",
+  "hiragana": "ひだり",
+  "pitch": 0,
+  "definition": "左、左邊",
+  "type": "名詞"
+ },
+ {
+  "kanji": "人",
+  "hiragana": "ひと",
+  "pitch": 0,
+  "definition": "人",
+  "type": "名詞"
+ },
+ {
+  "kanji": "一つ",
+  "hiragana": "ひと.つ",
+  "pitch": 2,
+  "definition": "一個",
+  "type": "名詞"
+ },
+ {
+  "kanji": "一月",
+  "hiragana": "ひと.つき",
+  "pitch": 2,
+  "definition": "一個月",
+  "type": "名詞"
+ },
+ {
+  "kanji": "一人",
+  "hiragana": "ひとり",
+  "pitch": 2,
+  "definition": "一個人",
+  "type": "名詞"
+ },
+ {
+  "kanji": "暇",
+  "hiragana": "ひま",
+  "pitch": 0,
+  "definition": "閒暇、有空的",
+  "type": "な形"
+ },
+ {
+  "kanji": "百",
+  "hiragana": "ひゃく",
+  "pitch": 2,
+  "definition": "一百",
+  "type": "名詞"
+ },
+ {
+  "kanji": "病院",
+  "hiragana": "びょう.いん",
+  "pitch": 0,
+  "definition": "醫院",
+  "type": "名詞"
+ },
+ {
+  "kanji": "病気",
+  "hiragana": "びょう.き",
+  "pitch": 0,
+  "definition": "生病",
+  "type": "名詞"
+ },
+ {
+  "kanji": "平仮名",
+  "hiragana": "ひら.か.な",
+  "pitch": 3,
+  "definition": "平假名",
+  "type": "名詞"
+ },
+ {
+  "kanji": "昼",
+  "hiragana": "ひる",
+  "pitch": 2,
+  "definition": "中午",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ビル",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "大樓",
+  "type": "名詞"
+ },
+ {
+  "kanji": "昼ご飯",
+  "hiragana": "ひる.ご.はん",
+  "pitch": 3,
+  "definition": "午餐",
+  "type": "名詞"
+ },
+ {
+  "kanji": "広い",
+  "hiragana": "ひろ.い",
+  "pitch": 2,
+  "definition": "寬闊的、寬廣的",
+  "type": "い形"
+ },
+ {
+  "kanji": "封筒",
+  "hiragana": "ふう.とう",
+  "pitch": 0,
+  "definition": "信封",
+  "type": "名詞"
+ },
+ {
+  "kanji": "プール",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "游泳池",
+  "type": "名詞"
+ },
+ {
+  "kanji": "フォーク",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "叉子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "吹く",
+  "hiragana": "ふ.く",
+  "pitch": 1,
+  "definition": "吹",
+  "type": "自動一"
+ },
+ {
+  "kanji": "服",
+  "hiragana": "ふく",
+  "pitch": 2,
+  "definition": "衣服",
+  "type": "名詞"
+ },
+ {
+  "kanji": "二つ",
+  "hiragana": "ふた.つ",
+  "pitch": 3,
+  "definition": "兩個",
+  "type": "名詞"
+ },
+ {
+  "kanji": "豚肉",
+  "hiragana": "ぶた.にく",
+  "pitch": 0,
+  "definition": "豬肉",
+  "type": "名詞"
+ },
+ {
+  "kanji": "二人",
+  "hiragana": "ふたり",
+  "pitch": 3,
+  "definition": "兩個人",
+  "type": "名詞"
+ },
+ {
+  "kanji": "二日",
+  "hiragana": "ふつか",
+  "pitch": 0,
+  "definition": "二號、二日",
+  "type": "名詞"
+ },
+ {
+  "kanji": "太い",
+  "hiragana": "ふと.い",
+  "pitch": 2,
+  "definition": "粗的",
+  "type": "い形"
+ },
+ {
+  "kanji": "冬",
+  "hiragana": "ふゆ",
+  "pitch": 2,
+  "definition": "冬天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "降る",
+  "hiragana": "ふ.る",
+  "pitch": 1,
+  "definition": "落下",
+  "type": "自動一"
+ },
+ {
+  "kanji": "古い",
+  "hiragana": "ふる.い",
+  "pitch": 2,
+  "definition": "舊的、老的",
+  "type": "い形"
+ },
+ {
+  "kanji": "風呂",
+  "hiragana": "ふ.ろ",
+  "pitch": 2,
+  "definition": "浴室、浴池",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～分",
+  "hiragana": "～ふん",
+  "pitch": "無",
+  "definition": "~分鐘",
+  "type": "名詞"
+ },
+ {
+  "kanji": "文章",
+  "hiragana": "ぶん.しょう",
+  "pitch": 1,
+  "definition": "文章",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ページ",
+  "hiragana": "無",
+  "pitch": 3,
+  "definition": "頁、頁數",
+  "type": "名詞"
+ },
+ {
+  "kanji": "下手",
+  "hiragana": "へ.た",
+  "pitch": 2,
+  "definition": "糟糕的、不厲害的",
+  "type": "な形"
+ },
+ {
+  "kanji": "ベッド",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "床",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ペット",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "寵物",
+  "type": "名詞"
+ },
+ {
+  "kanji": "部屋",
+  "hiragana": "へ.や",
+  "pitch": 2,
+  "definition": "房間",
+  "type": "名詞"
+ },
+ {
+  "kanji": "辺",
+  "hiragana": "へん",
+  "pitch": 0,
+  "definition": "附近、邊緣",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ペン",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "筆、鋼筆",
+  "type": "名詞"
+ },
+ {
+  "kanji": "勉強",
+  "hiragana": "べん.きょう",
+  "pitch": 0,
+  "definition": "學習、讀書",
+  "type": "自動二"
+ },
+ {
+  "kanji": "便利",
+  "hiragana": "べん.り",
+  "pitch": 1,
+  "definition": "方便的、便利的",
+  "type": "な形"
+ },
+ {
+  "kanji": "帽子",
+  "hiragana": "ぼう.し",
+  "pitch": 0,
+  "definition": "帽子",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ボールペン",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "原子筆",
+  "type": "名詞"
+ },
+ {
+  "kanji": "他",
+  "hiragana": "ほか",
+  "pitch": 0,
+  "definition": "其他",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ポケット",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "口袋",
+  "type": "名詞"
+ },
+ {
+  "kanji": "欲しい",
+  "hiragana": "ほ.しい",
+  "pitch": 2,
+  "definition": "想要的、需要的",
+  "type": "い形"
+ },
+ {
+  "kanji": "ポスト",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "郵筒、信箱",
+  "type": "名詞"
+ },
+ {
+  "kanji": "細い",
+  "hiragana": "ほそ.い",
+  "pitch": 2,
+  "definition": "細的",
+  "type": "い形"
+ },
+ {
+  "kanji": "ボタン",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "按鍵",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ホテル",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "飯店、旅館",
+  "type": "名詞"
+ },
+ {
+  "kanji": "本",
+  "hiragana": "ほん",
+  "pitch": 1,
+  "definition": "書",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～本",
+  "hiragana": "～ほん",
+  "pitch": "無",
+  "definition": "~枝、~根、~棵(細長物體)",
+  "type": "接尾"
+ },
+ {
+  "kanji": "本棚",
+  "hiragana": "ほん.だな",
+  "pitch": 1,
+  "definition": "書架、書櫃",
+  "type": "名詞"
+ },
+ {
+  "kanji": "本当",
+  "hiragana": "ほん.とう",
+  "pitch": 0,
+  "definition": "真的、真實的",
+  "type": "名詞"
+ },
+ {
+  "kanji": "本当に",
+  "hiragana": "ほん.とう.に",
+  "pitch": 0,
+  "definition": "真的、真正",
+  "type": "副詞"
+ },
+ {
+  "kanji": "～枚",
+  "hiragana": "～まい",
+  "pitch": "無",
+  "definition": "~張、~塊、~片",
+  "type": "接尾"
+ },
+ {
+  "kanji": "毎朝",
+  "hiragana": "まいあさ",
+  "pitch": 1,
+  "definition": "每天早上",
+  "type": "名詞"
+ },
+ {
+  "kanji": "毎月",
+  "hiragana": "まいげつ\/まいつき",
+  "pitch": 0,
+  "definition": "每個月",
+  "type": "名詞"
+ },
+ {
+  "kanji": "毎週",
+  "hiragana": "まいしゅう",
+  "pitch": 0,
+  "definition": "每周",
+  "type": "名詞"
+ },
+ {
+  "kanji": "毎日",
+  "hiragana": "まいにち",
+  "pitch": 1,
+  "definition": "每天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "毎年",
+  "hiragana": "まいとし\/まいねん",
+  "pitch": 0,
+  "definition": "每年",
+  "type": "名詞"
+ },
+ {
+  "kanji": "毎晩",
+  "hiragana": "まいばん",
+  "pitch": 0,
+  "definition": "每晚",
+  "type": "名詞"
+ },
+ {
+  "kanji": "前",
+  "hiragana": "まえ",
+  "pitch": 1,
+  "definition": "前面、前方、~之前、過去",
+  "type": "名詞／接尾"
+ },
+ {
+  "kanji": "曲がる",
+  "hiragana": "ま.がる",
+  "pitch": 0,
+  "definition": "轉彎、彎曲",
+  "type": "自動一"
+ },
+ {
+  "kanji": "まずい",
+  "hiragana": "無",
+  "pitch": 2,
+  "definition": "難吃的",
+  "type": "い形"
+ },
+ {
+  "kanji": "また",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "又是、還是",
+  "type": "名詞"
+ },
+ {
+  "kanji": "まだ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "還~、依舊、仍舊",
+  "type": "副詞"
+ },
+ {
+  "kanji": "町",
+  "hiragana": "まち",
+  "pitch": 2,
+  "definition": "城鎮、城市",
+  "type": "名詞"
+ },
+ {
+  "kanji": "待つ",
+  "hiragana": "ま.つ",
+  "pitch": 1,
+  "definition": "等、等待",
+  "type": "他動一"
+ },
+ {
+  "kanji": "真っ直ぐ",
+  "hiragana": "ま.っ.す.ぐ",
+  "pitch": 3,
+  "definition": "直直地、直接",
+  "type": "名詞\/な形"
+ },
+ {
+  "kanji": "マッチ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "火柴",
+  "type": "名詞"
+ },
+ {
+  "kanji": "窓",
+  "hiragana": "まど",
+  "pitch": 1,
+  "definition": "窗戶",
+  "type": "名詞"
+ },
+ {
+  "kanji": "丸い\/円い",
+  "hiragana": "まる.い",
+  "pitch": 0,
+  "definition": "圓的、圓形的",
+  "type": "い形"
+ },
+ {
+  "kanji": "万",
+  "hiragana": "まん",
+  "pitch": 1,
+  "definition": "一萬",
+  "type": "名詞"
+ },
+ {
+  "kanji": "万年筆",
+  "hiragana": "まん.ねん.ひつ",
+  "pitch": 3,
+  "definition": "鋼筆、自來水筆",
+  "type": "名詞"
+ },
+ {
+  "kanji": "磨く",
+  "hiragana": "みが.く",
+  "pitch": 0,
+  "definition": "刷、磨",
+  "type": "他動一"
+ },
+ {
+  "kanji": "右",
+  "hiragana": "みぎ",
+  "pitch": 0,
+  "definition": "右邊、右側",
+  "type": "名詞"
+ },
+ {
+  "kanji": "短い",
+  "hiragana": "みじか.い",
+  "pitch": 3,
+  "definition": "短的",
+  "type": "い形"
+ },
+ {
+  "kanji": "水",
+  "hiragana": "みず",
+  "pitch": 0,
+  "definition": "水",
+  "type": "名詞"
+ },
+ {
+  "kanji": "店",
+  "hiragana": "みせ",
+  "pitch": 2,
+  "definition": "商店、店鋪",
+  "type": "名詞"
+ },
+ {
+  "kanji": "見せる",
+  "hiragana": "み.せる",
+  "pitch": 2,
+  "definition": "給~看、讓~看",
+  "type": "他動二"
+ },
+ {
+  "kanji": "道",
+  "hiragana": "みち",
+  "pitch": 0,
+  "definition": "道路",
+  "type": "名詞"
+ },
+ {
+  "kanji": "三日",
+  "hiragana": "みっ.か",
+  "pitch": 0,
+  "definition": "三天、三日",
+  "type": "名詞"
+ },
+ {
+  "kanji": "三つ",
+  "hiragana": "みっ.つ",
+  "pitch": 0,
+  "definition": "三個、三歲",
+  "type": "名詞"
+ },
+ {
+  "kanji": "緑",
+  "hiragana": "みどり",
+  "pitch": 1,
+  "definition": "綠色",
+  "type": "名詞"
+ },
+ {
+  "kanji": "皆さん",
+  "hiragana": "みな.さん",
+  "pitch": 2,
+  "definition": "大家、各位",
+  "type": "名詞"
+ },
+ {
+  "kanji": "南",
+  "hiragana": "みなみ",
+  "pitch": 0,
+  "definition": "南、南方",
+  "type": "名詞"
+ },
+ {
+  "kanji": "耳",
+  "hiragana": "みみ",
+  "pitch": 2,
+  "definition": "耳朵",
+  "type": "名詞"
+ },
+ {
+  "kanji": "見る",
+  "hiragana": "み.る",
+  "pitch": 1,
+  "definition": "看、看見",
+  "type": "他動二"
+ },
+ {
+  "kanji": "皆",
+  "hiragana": "みんな",
+  "pitch": 0,
+  "definition": "大家、全部、都",
+  "type": "代名詞／副詞"
+ },
+ {
+  "kanji": "六日",
+  "hiragana": "むい.か",
+  "pitch": 0,
+  "definition": "六號、六日、六天",
+  "type": "名詞"
+ },
+ {
+  "kanji": "向こう",
+  "hiragana": "む.こう",
+  "pitch": 2,
+  "definition": "對面、前方",
+  "type": "名詞"
+ },
+ {
+  "kanji": "難しい",
+  "hiragana": "むずか.しい",
+  "pitch": 4,
+  "definition": "困難的、難解決的",
+  "type": "い形"
+ },
+ {
+  "kanji": "六つ",
+  "hiragana": "むっ.つ",
+  "pitch": 3,
+  "definition": "第六、六個、六歲",
+  "type": "名詞"
+ },
+ {
+  "kanji": "村",
+  "hiragana": "むら",
+  "pitch": 2,
+  "definition": "村莊",
+  "type": "名詞"
+ },
+ {
+  "kanji": "目",
+  "hiragana": "め",
+  "pitch": 1,
+  "definition": "眼睛",
+  "type": "名詞"
+ },
+ {
+  "kanji": "メートレ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "公尺",
+  "type": "名詞"
+ },
+ {
+  "kanji": "めがね",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "眼鏡",
+  "type": "名詞"
+ },
+ {
+  "kanji": "メモ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "備忘錄、便條",
+  "type": "名詞／他動三"
+ },
+ {
+  "kanji": "もう",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "再、另外",
+  "type": "副詞"
+ },
+ {
+  "kanji": "もう",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "已經",
+  "type": "副詞"
+ },
+ {
+  "kanji": "もう一度",
+  "hiragana": "もう.いち.ど",
+  "pitch": 0,
+  "definition": "再一次",
+  "type": "副詞"
+ },
+ {
+  "kanji": "木曜日",
+  "hiragana": "もく.よう.び",
+  "pitch": 3,
+  "definition": "星期四",
+  "type": "名詞"
+ },
+ {
+  "kanji": "もしもし",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "喂喂",
+  "type": "感嘆"
+ },
+ {
+  "kanji": "持つ",
+  "hiragana": "も.つ",
+  "pitch": 1,
+  "definition": "拿、帶來",
+  "type": "他動一"
+ },
+ {
+  "kanji": "もっと",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "更加、再~",
+  "type": "副詞"
+ },
+ {
+  "kanji": "もの",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "東西、物品",
+  "type": "名詞"
+ },
+ {
+  "kanji": "もらう",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "拿到、接受",
+  "type": "他動一"
+ },
+ {
+  "kanji": "もん",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "門、大門",
+  "type": "名詞"
+ },
+ {
+  "kanji": "問題",
+  "hiragana": "もん.だい",
+  "pitch": 0,
+  "definition": "問題、疑問",
+  "type": "名詞"
+ },
+ {
+  "kanji": "～屋",
+  "hiragana": "～や",
+  "pitch": "無",
+  "definition": "~店",
+  "type": "接尾"
+ },
+ {
+  "kanji": "八百屋",
+  "hiragana": "やおや",
+  "pitch": 0,
+  "definition": "蔬菜店、蔬果店",
+  "type": "名詞"
+ },
+ {
+  "kanji": "野菜",
+  "hiragana": "や.さい",
+  "pitch": 0,
+  "definition": "蔬菜",
+  "type": "名詞"
+ },
+ {
+  "kanji": "易しい",
+  "hiragana": "やさ.しい",
+  "pitch": 0,
+  "definition": "容易的、簡單的",
+  "type": "い形"
+ },
+ {
+  "kanji": "安い",
+  "hiragana": "やす.い",
+  "pitch": 2,
+  "definition": "便宜的、低價的",
+  "type": "い形"
+ },
+ {
+  "kanji": "休み",
+  "hiragana": "やす.み",
+  "pitch": 3,
+  "definition": "休假、放假",
+  "type": "名詞"
+ },
+ {
+  "kanji": "休む",
+  "hiragana": "やす.む",
+  "pitch": 2,
+  "definition": "休息、停歇",
+  "type": "他動一"
+ },
+ {
+  "kanji": "八つ",
+  "hiragana": "やっ.つ",
+  "pitch": 3,
+  "definition": "八個、八歲",
+  "type": "名詞"
+ },
+ {
+  "kanji": "山",
+  "hiragana": "やま",
+  "pitch": 2,
+  "definition": "山",
+  "type": "名詞"
+ },
+ {
+  "kanji": "遣る",
+  "hiragana": "や.る",
+  "pitch": 0,
+  "definition": "做",
+  "type": "他動一"
+ },
+ {
+  "kanji": "夕方",
+  "hiragana": "ゆう.かた",
+  "pitch": 0,
+  "definition": "傍晚、黃昏",
+  "type": "名詞"
+ },
+ {
+  "kanji": "夕飯",
+  "hiragana": "ゆう.ばん",
+  "pitch": 0,
+  "definition": "晚飯",
+  "type": "名詞"
+ },
+ {
+  "kanji": "郵便局",
+  "hiragana": "ゆう.びん.きょく",
+  "pitch": 3,
+  "definition": "郵局",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ゆうべ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "昨夜、昨晚",
+  "type": "名詞"
+ },
+ {
+  "kanji": "有名",
+  "hiragana": "ゆう.めい",
+  "pitch": 0,
+  "definition": "有名的、著名的",
+  "type": "な形"
+ },
+ {
+  "kanji": "雪",
+  "hiragana": "ゆき",
+  "pitch": 2,
+  "definition": "雪",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ゆっくり",
+  "hiragana": "無",
+  "pitch": 3,
+  "definition": "慢慢地",
+  "type": "副詞\/自動三"
+ },
+ {
+  "kanji": "八日",
+  "hiragana": "よう.か",
+  "pitch": 0,
+  "definition": "八日、八號",
+  "type": "名詞"
+ },
+ {
+  "kanji": "洋服",
+  "hiragana": "よう.ふく",
+  "pitch": 0,
+  "definition": "西式衣服",
+  "type": "名詞"
+ },
+ {
+  "kanji": "よく",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "常常、經常、很好地",
+  "type": "副詞"
+ },
+ {
+  "kanji": "よこ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "旁邊、側邊",
+  "type": "名詞"
+ },
+ {
+  "kanji": "四日",
+  "hiragana": "よっ.か",
+  "pitch": 0,
+  "definition": "四天、四日",
+  "type": "名詞"
+ },
+ {
+  "kanji": "四つ",
+  "hiragana": "よっ.つ",
+  "pitch": 3,
+  "definition": "四、四個",
+  "type": "名詞"
+ },
+ {
+  "kanji": "呼ぶ",
+  "hiragana": "よ.ぶ",
+  "pitch": 0,
+  "definition": "叫、呼叫",
+  "type": "他動一"
+ },
+ {
+  "kanji": "読む",
+  "hiragana": "よ.む",
+  "pitch": 1,
+  "definition": "讀、閱讀",
+  "type": "他動一"
+ },
+ {
+  "kanji": "夜",
+  "hiragana": "よる",
+  "pitch": 1,
+  "definition": "夜晚、夜間",
+  "type": "名詞"
+ },
+ {
+  "kanji": "弱い",
+  "hiragana": "よわ.い",
+  "pitch": 2,
+  "definition": "虛弱的",
+  "type": "い形"
+ },
+ {
+  "kanji": "ラーメン",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "拉麵",
+  "type": "名詞"
+ },
+ {
+  "kanji": "来月",
+  "hiragana": "らい.げつ",
+  "pitch": 1,
+  "definition": "下個月",
+  "type": "名詞"
+ },
+ {
+  "kanji": "来週",
+  "hiragana": "らい.しゅう",
+  "pitch": 0,
+  "definition": "下星期",
+  "type": "名詞"
+ },
+ {
+  "kanji": "来年",
+  "hiragana": "らい.ねん",
+  "pitch": 0,
+  "definition": "明年",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ラジオ",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "廣播",
+  "type": "名詞"
+ },
+ {
+  "kanji": "立派",
+  "hiragana": "りっ.ぱ",
+  "pitch": 0,
+  "definition": "氣派的、出色的",
+  "type": "な形"
+ },
+ {
+  "kanji": "留学生",
+  "hiragana": "りゅう.がく.せい",
+  "pitch": 3,
+  "definition": "留學生",
+  "type": "名詞"
+ },
+ {
+  "kanji": "両親",
+  "hiragana": "りょう.しん",
+  "pitch": 1,
+  "definition": "雙親、父母親",
+  "type": "名詞"
+ },
+ {
+  "kanji": "料理",
+  "hiragana": "りょう.り",
+  "pitch": 1,
+  "definition": "做菜、烹飪、料理",
+  "type": "名詞／他動三"
+ },
+ {
+  "kanji": "旅行",
+  "hiragana": "りょ.こう",
+  "pitch": 0,
+  "definition": "旅行",
+  "type": "名詞／自動三"
+ },
+ {
+  "kanji": "旅行会社",
+  "hiragana": "りょ.こう.がい.しゃ",
+  "pitch": 4,
+  "definition": "旅行社",
+  "type": "名詞"
+ },
+ {
+  "kanji": "零",
+  "hiragana": "れい",
+  "pitch": 1,
+  "definition": "零",
+  "type": "名詞"
+ },
+ {
+  "kanji": "冷蔵庫",
+  "hiragana": "れい.ぞう.こ",
+  "pitch": 3,
+  "definition": "冰箱",
+  "type": "名詞"
+ },
+ {
+  "kanji": "レストラン",
+  "hiragana": "無",
+  "pitch": 1,
+  "definition": "餐廳、飯館",
+  "type": "名詞"
+ },
+ {
+  "kanji": "練習",
+  "hiragana": "れん.しゅう",
+  "pitch": 0,
+  "definition": "練習",
+  "type": "名詞／他動三"
+ },
+ {
+  "kanji": "廊下",
+  "hiragana": "ろう.か",
+  "pitch": 0,
+  "definition": "走廊",
+  "type": "名詞"
+ },
+ {
+  "kanji": "六",
+  "hiragana": "ろく",
+  "pitch": 2,
+  "definition": "六",
+  "type": "名詞"
+ },
+ {
+  "kanji": "ワイシャツ",
+  "hiragana": "無",
+  "pitch": 0,
+  "definition": "白襯衫",
+  "type": "名詞"
+ },
+ {
+  "kanji": "若い",
+  "hiragana": "わか.い",
+  "pitch": 2,
+  "definition": "年輕的、年少的",
+  "type": "い形"
+ },
+ {
+  "kanji": "分かる",
+  "hiragana": "わ.かる",
+  "pitch": 2,
+  "definition": "明白、知道",
+  "type": "自動一"
+ },
+ {
+  "kanji": "忘れる",
+  "hiragana": "わす.れる",
+  "pitch": 0,
+  "definition": "忘記、遺忘",
+  "type": "他動二"
+ },
+ {
+  "kanji": "私",
+  "hiragana": "わたし",
+  "pitch": 0,
+  "definition": "我",
+  "type": "名詞"
+ },
+ {
+  "kanji": "渡す",
+  "hiragana": "わた.す",
+  "pitch": 0,
+  "definition": "支付、給予",
+  "type": "他動一"
+ },
+ {
+  "kanji": "渡る",
+  "hiragana": "わた.る",
+  "pitch": 0,
+  "definition": "渡、通過",
+  "type": "自動一"
+ },
+ {
+  "kanji": "悪い",
+  "hiragana": "わる.い",
+  "pitch": 2,
+  "definition": "壞的、不好的",
+  "type": "い形"
+ }
+
+]

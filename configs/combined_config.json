@@ -1,0 +1,95 @@
+[
+  {
+    "name": "綜合測驗區",
+    "type": "category",
+    "id": "combined_quiz_area",
+    "enabled": true,
+    "items": [
+      {
+        "name": "JLTP單字",
+        "type": "list",
+        "id": "MULTI_SELECT_ENTRY",
+        "enabled": true,
+        "available_lists": ["N3", "N4","N5"],
+        "modes": [
+          {
+            "id": "multi_quiz_review",
+            "type": "review",
+            "name": "翻卡複習 (中=>日)",
+            "enabled": true,
+            "q_field": "definition", 
+            "a_field": "kanji",
+            "back_fields": [
+              { "label": "日文", "key": "kanji" },
+              { "label": "意思", "key": "definition" },
+              { "label": "平假名", "key": "hiragana" },
+              { "label": "音調", "key": "pitch" },
+              { "label": "詞性", "key": "type" }
+            ]
+          },
+          {
+            "id": "multi_quiz_review_def",
+            "type": "review",
+            "name": "翻卡複習 (日=>中)",
+            "enabled": true,
+            "q_field": "kanji", 
+            "a_field": "defition",
+            "back_fields": [
+              { "label": "日文", "key": "kanji" },
+              { "label": "意思", "key": "definition" },
+              { "label": "平假名", "key": "hiragana" },
+              { "label": "音調", "key": "pitch" },
+              { "label": "詞性", "key": "type" }
+            ]
+          },
+          {
+            "id": "multi_quiz_input",
+            "type": "quiz",
+            "name": "輸入測驗 (中=>日)",
+            "enabled": true,
+            "q_field": "definition",
+            "a_field": "kanji",
+            "back_fields": [
+              { "label": "日文", "key": "kanji" },
+              { "label": "平假名", "key": "hiragana" },
+              { "label": "音調", "key": "pitch" },
+              { "label": "意思", "key": "definition" },
+              { "label": "詞性", "key": "type" }
+            ]
+          },
+          {
+            "id": "multi_quiz_mcq",
+            "type": "mcq",
+            "name": "選擇測驗 (中=>日)",
+            "enabled": true,
+            "q_field": "definition",
+            "a_field": "kanji",
+            "back_fields": [
+              { "label": "中文", "key": "kanji" },
+              { "label": "平假名", "key": "hiragana" },
+              { "label": "音調", "key": "pitch" },
+              { "label": "意思", "key": "definition" },
+              { "label": "詞性", "key": "type" }
+              
+            ]
+          },
+          {
+            "id": "multi_quiz_mcq_def",
+            "type": "mcq",
+            "name": "選擇測驗 (日=>中)",
+            "enabled": true,
+            "q_field": "kanji",
+            "a_field": "definition",
+            "back_fields": [
+              { "label": "中文", "key": "kanji" },
+              { "label": "平假名", "key": "hiragana" },
+              { "label": "音調", "key": "pitch" },
+              { "label": "意思", "key": "definition" },
+              { "label": "詞性", "key": "type" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
