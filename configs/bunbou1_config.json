@@ -14,7 +14,7 @@
           {
             "id": "bunbou_fill_mode",
             "type": "quiz",
-            "name": "填空題 (qus-1)",
+            "name": "填空題 ",
             "enabled": true,
             "q_field": "qus-1",
             "a_field": "ans-1",
@@ -26,7 +26,7 @@
           {
             "id": "bunbou_mcq_mode",
             "type": "mcq",
-            "name": "選擇題 (qus-2)",
+            "name": "選擇題 ",
             "enabled": true,
             "q_field": "qus-2",
             "a_field": "ans-2",
@@ -38,7 +38,7 @@
           {
             "id": "bunbou_mix_mode",
             "type": "mixed",
-            "name": "綜合練習 (混合)",
+            "name": "綜合練習 ",
             "enabled": true,
             "q_field": "qus-1",
             "a_field": "ans-1",
@@ -49,8 +49,66 @@
             ]
           }
         ]
+      },
+      {
+        "name": "可能形",
+        "type": "list",
+        "id": "bunbou2",
+        "enabled": true,
+        "modes": [
+          {
+            "id": "bunbou2_fill_mode",
+            "type": "quiz",
+            "name": "填空題 ",
+            "enabled": true,
+            "q_field": "qus-1",
+            "a_field": "ans-1",
+            "back_fields": [
+              { "label": "正確答案", "key": "ans-1" },
+              { "label": "題目", "key": "qus-1" },
+              { "label": "完整句子", "key": "sentence" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "被動",
+        "type": "list",
+        "id": "bunbou3",
+        "enabled": true,
+        "modes": [
+          {
+            "id": "bunbou3_fill_mode",
+            "type": "quiz",
+            "name": "句型變換 ",
+            "enabled": true,
+            "q_field": "qus-1",
+            "a_field": "ans-1",
+            "back_fields": [
+              { "label": "正確答案", "key": "ans-1" },
+              { "label": "題目", "key": "qus-1" }
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": "FINAL_MOCK_EXAM",
+        "name": "期末模擬考 (10選+5可+5被)",
+        "type": "list",
+        "modes": [
+          {
+            "id": "MOCK_MIXED",
+            "name": "開始模擬考",
+            "type": "mixed", 
+            "enabled": true,
+            "q_field": "qus-1", 
+            "a_field": "ans-1",
+            "back_fields": []
+          }
+        ]
       }
+      
     ]
   }
-
 ]
