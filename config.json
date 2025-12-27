@@ -1,7 +1,7 @@
 {
   "siteTitle": "日文練習",
   "catalog": [
-    {
+    
     {
       "name": "語法期中",
       "type": "external_category",
@@ -15,3 +15,4 @@
   ]
 
 }
+
