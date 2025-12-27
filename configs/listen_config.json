@@ -20,9 +20,8 @@
             "q_field": "kanji1",
             "a_field": "hiragana1",
             "back_fields": [
-              { "label": "正確讀音", "key": "hiragana1" },
-              { "label": "易混淆字", "key": "kanji2" },
-              { "label": "混淆讀音", "key": "hiragana2" }
+              { "label": "正確讀音", "key": "hiragana1" }
+              
             ]
           },
           {
@@ -33,9 +32,8 @@
             "q_field": "hiragana1",
             "a_field": "kanji1",
             "back_fields": [
-              { "label": "正確讀音", "key": "hiragana1" },
-              { "label": "易混淆字", "key": "kanji2" },
-              { "label": "混淆讀音", "key": "hiragana2" }
+              { "label": "正確讀音", "key": "kanji1" }
+
             ]
           }
         ]
