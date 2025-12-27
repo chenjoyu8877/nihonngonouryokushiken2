@@ -252,8 +252,8 @@ async function initializeQuiz() {
         try {
             // 定義要抓取的檔案與題數
             const sources = [
-                { file: 'words/bunbou1.json', count: 10 }, 
-                { file: 'words/bunbou2.json', count: 5 },  
+                { file: 'words/bunbou1.json', count: 15 }, 
+                { file: 'words/bunbou2.json', count: 10 },  
                 { file: 'words/bunbou3.json', count: 5 }   
             ];
 
