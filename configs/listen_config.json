@@ -1,0 +1,45 @@
+[
+  {
+    "name": "聽力期末",
+    "type": "category",
+    "id": "listen_term_folder",
+    "enabled": true,
+    "items": [
+      {
+        "name": "聽力分辨 (L21)",
+        "type": "list",
+        "id": "listen21",
+        "enabled": true,
+        "modes": [
+          
+          {
+            "id": "listen21_quiz",
+            "type": "quiz",
+            "name": "中日",
+            "enabled": true,
+            "q_field": "kanji1",
+            "a_field": "hiragana1",
+            "back_fields": [
+              { "label": "正確讀音", "key": "hiragana1" },
+              { "label": "易混淆字", "key": "kanji2" },
+              { "label": "混淆讀音", "key": "hiragana2" }
+            ]
+          },
+          {
+            "id": "listen21_quiz",
+            "type": "quiz",
+            "name": "日中",
+            "enabled": true,
+            "q_field": "hiragana1",
+            "a_field": "kanji1",
+            "back_fields": [
+              { "label": "正確讀音", "key": "hiragana1" },
+              { "label": "易混淆字", "key": "kanji2" },
+              { "label": "混淆讀音", "key": "hiragana2" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
